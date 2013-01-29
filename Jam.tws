@@ -34,7 +34,7 @@ p16
 (dp17
 S'text'
 p18
-VIt's a nice winter evening.\u000a\u000aWhile checking your Twitter feed, you realize ''LoveThisJam'' is about to start! The theme is ''pausodonoptic''.\u000a\u000aSince your exams don't start for another week, you decide to spend the next 48 hours creating a game for this jam.\u000a\u000aBut first:\u000a\u000a<<display "Pre actions">>
+VIt's a nice winter evening.\u000a\u000aWhile checking your Twitter feed, you realize ''LoveThisJam'' is about to start! The theme is ''pausodonoptic''.\u000a\u000aSince your exams don't start for another week, you decide to spend the next 48 hours creating a game for this jam.\u000a\u000aBut first:\u000a\u000a<<display "Pre actions">>\u000a\u000a<<set $broke = 0>>
 p19
 sS'tags'
 p20
@@ -77,7 +77,7 @@ Tiddler
 p33
 (dp34
 g18
-VJam
+VNeverJam
 p35
 sg20
 (lp36
@@ -217,8 +217,8 @@ g12
 I00
 sg13
 (lp76
-I319
-aI411
+I290
+aI430
 asg15
 (itiddlywiki
 Tiddler
@@ -254,8 +254,8 @@ g12
 I00
 sg13
 (lp87
-I294
-aI734
+I290
+aI710
 asg15
 (itiddlywiki
 Tiddler
@@ -291,8 +291,8 @@ g12
 I00
 sg13
 (lp98
-I434
-aI594
+I430
+aI570
 asg15
 (itiddlywiki
 Tiddler
@@ -328,8 +328,8 @@ g12
 I00
 sg13
 (lp109
-I296
-aI1014
+I290
+aI990
 asg15
 (itiddlywiki
 Tiddler
@@ -365,8 +365,8 @@ g12
 I00
 sg13
 (lp120
-I434
-aI734
+I430
+aI710
 asg15
 (itiddlywiki
 Tiddler
@@ -402,15 +402,15 @@ g12
 I00
 sg13
 (lp131
-I154
-aI1014
+I150
+aI990
 asg15
 (itiddlywiki
 Tiddler
 p132
 (dp133
 g18
-V<Ctrl-T>, f, <Enter>\u000a\u000aYou realize you have seen most of your timeline already, since the last time you checked Facebook was.. ten minutes ago.\u000a\u000aBesides, this is your new account where you only have ten friends. Facebook is too mainstream nowadays. You're secretly hoping more people would adopt Google+, but all you can read on there are Linus Torvald's rants about Gnome.\u000a\u000aOne of the posts is about a sappy romantic comedy. Another is a link to someone's latest SoundCloud song. It's an 8-bit cover of a 16-bit SEGA vgm.\u000a\u000aFinally, one post catches your attention: it's a picture of your ex in bikini.\u000a\u000a* [[Like|fblike]]\u000a* [[Quickly close Facebook|tweet2]]\u000a* [[Touch yourself||masturbate]]\u000a
+V<Ctrl-T>, f, <Enter>\u000a\u000aYou realize you have seen most of your timeline already, since the last time you checked Facebook was.. ten minutes ago.\u000a\u000aBesides, this is your new account where you only have ten friends. Facebook is too mainstream nowadays. You're secretly hoping more people would adopt Google+, but all you can read on there are Linus Torvald's rants about Gnome.\u000a\u000aOne of the posts is about a sappy romantic comedy. Another is a link to someone's latest SoundCloud song. It's an 8-bit cover of a 16-bit SEGA vgm.\u000a\u000aFinally, one post catches your attention: it's a picture of your ex in bikini.\u000a\u000a* [[Like|fblike]]\u000a* [[Quickly close Facebook|Tweet for help]]\u000a* [[Touch yourself||masturbate]]\u000a
 p134
 sg20
 (lp135
@@ -439,8 +439,8 @@ g12
 I00
 sg13
 (lp142
-I574
-aI1014
+I570
+aI990
 asg15
 (itiddlywiki
 Tiddler
@@ -476,8 +476,8 @@ g12
 I00
 sg13
 (lp153
-I574
-aI734
+I570
+aI710
 asg15
 (itiddlywiki
 Tiddler
@@ -513,8 +513,8 @@ g12
 I00
 sg13
 (lp164
-I714
-aI734
+I710
+aI710
 asg15
 (itiddlywiki
 Tiddler
@@ -550,15 +550,15 @@ g12
 I00
 sg13
 (lp175
-I854
-aI734
+I850
+aI710
 asg15
 (itiddlywiki
 Tiddler
 p176
 (dp177
 g18
-VTime to find a real idea.\u000a\u000aIn a stroke of genius, you decide to look up what Edmund McMillen did before Super Meat Boy and Binding of Isaac.\u000a\u000aYou fire up Newgrounds and discover the pinnacle of the Basement Collection: <html><a href="http://www.newgrounds.com/portal/view/422918" target=_blank>Coil</a></html>.\u000a\u000aYes, platformers and first-person shooters are overdone, you think a neat puzzle game with no instructions will be much better.\u000a\u000aTime to choose the style of the game:\u000a\u000a* [[Vector graphics!]]\u000a* [[Pixel art!]]
+VTime to find a real idea.\u000a\u000aIn a stroke of genius, you decide to look up what Edmund McMillen did before Super Meat Boy and Binding of Isaac.\u000a\u000aYou fire up Newgrounds and discover the pinnacle of the Basement Collection: <html><a href="http://www.newgrounds.com/portal/view/422918" target=_blank>Coil</a></html>.\u000a\u000aYes, platformers and first-person shooters are overdone, you think a neat puzzle game with no instructions will be much better.\u000a\u000aTime to choose the style of the game:\u000a\u000a* [[Vector graphics!]]\u000a* [[Pixel art!]]\u000a
 p178
 sg20
 (lp179
@@ -587,15 +587,15 @@ g12
 I00
 sg13
 (lp186
-I1174
-aI1201
+I570
+aI1270
 asg15
 (itiddlywiki
 Tiddler
 p187
 (dp188
 g18
-V<<actions>>
+VStanding before your various options, you're reminded of this quote, by Henry David Thoreau:\u000a\u000a''Men have become the tools of their tools.''\u000a\u000aHmm, irrelevant.\u000a\u000aUnperturbed by this brain fart, you decide to choose:\u000a\u000a<<display "Programming tools options">>\u000a
 p189
 sg20
 (lp190
@@ -617,15 +617,15 @@ Rp194
 sg28
 g194
 sg29
-VTools
+VProgramming tools
 p195
 sbsa(dp196
 g12
 I00
 sg13
 (lp197
-I1018
-aI735
+I990
+aI710
 asg15
 (itiddlywiki
 Tiddler
@@ -661,8 +661,8 @@ g12
 I00
 sg13
 (lp208
-I1181
-aI824
+I1130
+aI850
 asg15
 (itiddlywiki
 Tiddler
@@ -695,11 +695,11 @@ VFire up Inkscape
 p217
 sbsa(dp218
 g12
-I01
+I00
 sg13
 (lp219
-I1020
-aI903
+I990
+aI850
 asg15
 (itiddlywiki
 Tiddler
@@ -735,15 +735,15 @@ g12
 I00
 sg13
 (lp230
-I849
-aI1200
+I850
+aI990
 asg15
 (itiddlywiki
 Tiddler
 p231
 (dp232
 g18
-S''
+VExhausted by all this hard work and difficult decision making, you decide to grant yourself a small reward for being such a good chap.\u000a\u000a* [[Have a smoke]] - after all, you deserved it.\u000a* Skip the smoke, try that [[bag of chips]] on the desk instead.\u000a
 p233
 sg20
 (lp234
@@ -767,7 +767,488 @@ g238
 sg29
 VPixel art!
 p239
-sbsasS'scale'
-p240
+sbsa(dp240
+g12
+I00
+sg13
+(lp241
+I990
+aI1130
+asg15
+(itiddlywiki
+Tiddler
+p242
+(dp243
+g18
+VThat cigarette is godly.  Almost Tarantino-esque.\u000a\u000aBut it ends way too soon.\u000a\u000aBack to work! Now that you know about the style of the game, time to choose your [[Programming tools]]!
+p244
+sg20
+(lp245
+sg22
+g23
+((I2013
 I1
+I29
+I21
+I59
+I31
+I1
+I29
+I0
+tp246
+(dp247
+tp248
+Rp249
+sg28
+g249
+sg29
+VHave a smoke
+p250
+sbsa(dp251
+g12
+I00
+sg13
+(lp252
+I710
+aI1130
+asg15
+(itiddlywiki
+Tiddler
+p253
+(dp254
+g18
+VYou choose the healthy path and go for that bag of chips on the edge of your desk.\u000a\u000aHowever, upon further investigation it appears the chips have turned from bright orange to eco green. Now's now the time to get sick.\u000a\u000aYou throw the bag in your trash, at the other end of your room - and miss. No time to put it back, you have a game to create!\u000a\u000aGiving up on the idea of taking a break, you go on and start wondering about which [[Programming tools]] to use.
+p255
+sg20
+(lp256
+sg22
+g23
+((I2013
+I1
+I29
+I22
+I2
+I35
+I1
+I29
+I0
+tp257
+(dp258
+tp259
+Rp260
+sg28
+g260
+sg29
+Vbag of chips
+p261
+sbsa(dp262
+g12
+I00
+sg13
+(lp263
+I570
+aI1550
+asg15
+(itiddlywiki
+Tiddler
+p264
+(dp265
+g18
+VYou've heard a lot of good from Game Maker.\u000a\u000aIsn't that what Hotline Miami is made with? Or is it Counter Strike? You can never remember.\u000a\u000aYou decide to give Game Maker a try - on YoYo games website, you find only one Download button, for the Free edition.\u000a\u000aWhat's that? Ads? That can't be. What if your game becomes successful and you want to sell it? You wouldn't want it to have an ugly splash screen then, would you?\u000a\u000a* Fuck it, [[buy a license]]\u000a* [[No I wouldn't|Programming tools]]\u000a
+p266
+sg20
+(lp267
+sg22
+g23
+((I2013
+I1
+I29
+I22
+I8
+I20
+I1
+I29
+I0
+tp268
+(dp269
+tp270
+Rp271
+sg28
+g271
+sg29
+VUse Game Maker
+p272
+sbsa(dp273
+g12
+I00
+sg13
+(lp274
+I982
+aI1379
+asg15
+(itiddlywiki
+Tiddler
+p275
+(dp276
+g18
+V<<actions "Use Game Maker" "Use Unity" "Use C++" "Use Java">>\u000a
+p277
+sg20
+(lp278
+sg22
+g23
+((I2013
+I1
+I29
+I22
+I10
+I52
+I1
+I29
+I0
+tp279
+(dp280
+tp281
+Rp282
+sg28
+g282
+sg29
+VProgramming tools options
+p283
+sbsa(dp284
+g12
+I00
+sg13
+(lp285
+I570
+aI1690
+asg15
+(itiddlywiki
+Tiddler
+p286
+(dp287
+g18
+V<<if $broke>>\u000aYour Paypal account is empty, remember?\u000a\u000aHere are your remaining options:\u000a<<else>>\u000a<<set $broke = 1>>\u000aDecided to give your game the best chance possible, you decide to cash out and buy a license.\u000a\u000aAs you navigate to the website's cart and to the check out, you notice your Paypal account only has 49 cents left.\u000a\u000aThat's right, the Winter Steam sale left it in pretty bad shape. You would use your credit card, if only you had one.\u000a\u000aAnnoyed, you take a look at the remaining options:\u000a<<endif>>\u000a\u000a<<display "Programming tools options">>
+p288
+sg20
+(lp289
+sg22
+g23
+((I2013
+I1
+I29
+I22
+I11
+I27
+I1
+I29
+I0
+tp290
+(dp291
+tp292
+Rp293
+sg28
+g293
+sg29
+Vbuy a license
+p294
+sbsa(dp295
+g12
+I00
+sg13
+(lp296
+I710
+aI1690
+asg15
+(itiddlywiki
+Tiddler
+p297
+(dp298
+g18
+VUnity sounds and looks like the dream game framework: batteries included, with a nice editor and what's more? Everyone seems to be using it these days.\u000a\u000aIt even has a browser plug-in! Surely what made Flash a success back in the days.\u000a\u000aYou navigate to its website and read a bit more about it, since you've never used it before.\u000a\u000aIn the second paragraph, something catches your eye: ''Not Free for Android/iOS usage''.\u000a\u000aWhat!? Up to this point, you never even considered making your game on something else than a cozy desktop computer (heck, you hadn't even considered Mac and Linux), but now that you've seen the option, you WANT IT.\u000a\u000aHowever, it requires money. What will you do?\u000a\u000a* Fuck it, [[buy a license]]\u000a* [[Ain't nobody's got money for that!|Programming tools]]\u000a
+p299
+sg20
+(lp300
+sg22
+g23
+((I2013
+I1
+I29
+I22
+I15
+I2
+I1
+I29
+I0
+tp301
+(dp302
+tp303
+Rp304
+sg28
+g304
+sg29
+VUse Unity
+p305
+sbsa(dp306
+g12
+I00
+sg13
+(lp307
+I990
+aI1690
+asg15
+(itiddlywiki
+Tiddler
+p308
+(dp309
+g18
+VYou decide to go the way of the warrior and fire up a C++ development environment.\u000a\u000aHowever, you are immediately surrounded by a luxury of choices. "When it will ever end?" you wonder, as you reluctantly look up a GpWiki page that lists the different frameworks you could use:\u000a\u000a<<display "C++ Options">>
+p310
+sg20
+(lp311
+sg22
+g23
+((I2013
+I1
+I29
+I22
+I24
+I45
+I1
+I29
+I0
+tp312
+(dp313
+tp314
+Rp315
+sg28
+g315
+sg29
+VUse C++
+p316
+sbsa(dp317
+g12
+I00
+sg13
+(lp318
+I989
+aI1839
+asg15
+(itiddlywiki
+Tiddler
+p319
+(dp320
+g18
+V<<actions "Use Ogre3D" "Use Irrlicht" "Use IwGame" "Give up on C++">>
+p321
+sg20
+(lp322
+sg22
+g23
+((I2013
+I1
+I29
+I22
+I28
+I8
+I1
+I29
+I0
+tp323
+(dp324
+tp325
+Rp326
+sg28
+g326
+sg29
+VC++ Options
+p327
+sbsa(dp328
+g12
+I00
+sg13
+(lp329
+I683
+aI2019
+asg15
+(itiddlywiki
+Tiddler
+p330
+(dp331
+g18
+VOgre3D looks like a hell of a best. The screenshots on the homepage are impressive.\u000a\u000aOpen Source? Meh, hopefully it still works though. You never know who to trust, these days.\u000a\u000aYou keep on reading the starter docs, end up on the 13th page of a forum thread, and discover to your error that it doesn't run yet on Windows 8 ARM tablets.\u000a\u000a''Schadenfreude!'' you exclaim, unsure how much is left of your german courses.\u000a\u000aYou spitefully take a begrudging look at your remaining options:\u000a\u000a<<display "C++ Options">>
+p332
+sg20
+(lp333
+sg22
+g23
+((I2013
+I1
+I29
+I22
+I50
+I52
+I1
+I29
+I0
+tp334
+(dp335
+tp336
+Rp337
+sg28
+g337
+sg29
+VUse Ogre3D
+p338
+sbsa(dp339
+g12
+I00
+sg13
+(lp340
+I848
+aI2022
+asg15
+(itiddlywiki
+Tiddler
+p341
+(dp342
+g18
+VYou read up a bit on Irrlicht. The more you see, the more you like it.\u000a\u000aThey say it's faster than most engines because it only uses a 16-bits color palette. That's more than enough for your retro game - and speed is always welcome. You thank Cthulhu that the retro cargo cult hasn't attacked frames per second yet.\u000a\u000aYou quickly download it and try it out. The demo is an MD2 file loader that displays a knight model from the Cube game in all its splendor.\u000a\u000aIt looks spiffy, and they didn't lie - it does run very fast. However, as you keep on looking, you quickly understand that engine is not conceived with 2D in mind.\u000a\u000aDisappointed, and a bit disabused, you decide to give up on Irrlicht and take a look at your remaining options:\u000a\u000a<<display "C++ Options">>
+p343
+sg20
+(lp344
+sg22
+g23
+((I2013
+I1
+I29
+I22
+I51
+I2
+I1
+I29
+I0
+tp345
+(dp346
+tp347
+Rp348
+sg28
+g348
+sg29
+VUse Irrlicht
+p349
+sbsa(dp350
+g12
+I00
+sg13
+(lp351
+I1036
+aI2016
+asg15
+(itiddlywiki
+Tiddler
+p352
+(dp353
+g18
+VAt last, a C++ game engine with 2D in mind. And it seems to support even the darkest of obscure platforms. BBX? Bada? And Symbian? Isn't that a drug?\u000a\u000aWhile reading the never-ending feature list, you are overwhelmed with an urge to doze off.\u000a\u000aYou wake up an hour later, only to find that the address bar of your browser has been entirely filled with semi-colons. You go to the bathroom to check up on yourself, and see the remnants of a typist's nightmare on your left cheek.\u000a\u000aWhen you come back to your computer, you realize that following the Download link leads to a 503 Unavailable Service server error.\u000a\u000aIt seems like you're really out of luck.\u000a\u000a<<display "C++ Options">>
+p354
+sg20
+(lp355
+sg22
+g23
+((I2013
+I1
+I29
+I22
+I58
+I24
+I1
+I29
+I0
+tp356
+(dp357
+tp358
+Rp359
+sg28
+g359
+sg29
+VUse IwGame
+p360
+sbsa(dp361
+g12
+I00
+sg13
+(lp362
+I1235
+aI1712
+asg15
+(itiddlywiki
+Tiddler
+p363
+(dp364
+g18
+VWounded and weaker than you entered, you exit the C family arena and go back to square n+1: choosing a programming language tool that's adequate for the task at hand: creating the gamest of game, which shall at the very least earn you an honorific IGF nomination.\u000a\u000a<<display "Programming tools options">>
+p365
+sg20
+(lp366
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I2
+I52
+I1
+I29
+I0
+tp367
+(dp368
+tp369
+Rp370
+sg28
+g370
+sg29
+VGive up on C++
+p371
+sbsa(dp372
+g12
+I01
+sg13
+(lp373
+F1247.4999999999995
+aF1374.9999999999995
+asg15
+(itiddlywiki
+Tiddler
+p374
+(dp375
+g18
+VWith a very relative enthusiasm, you download the latest version of Eclipse, and after an LWJGL download later, you're up and running with a basic canvas.\u000a\u000aYou quickly sketch a hero to your image - more or less - and put it up on the screen. For now, it only follows the mouse around - except when the mouse exits the window.\u000a\u000aBut eh, gotta start somewhere right?\u000a\u000aProud of your achievement, you decide to:\u000a\u000a<<display "Prototype options">>
+p376
+sg20
+(lp377
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I4
+I58
+I1
+I29
+I0
+tp378
+(dp379
+tp380
+Rp381
+sg28
+g381
+sg29
+VUse Java
+p382
+sbsasS'scale'
+p383
+F0.40000000000000008
 ss.
