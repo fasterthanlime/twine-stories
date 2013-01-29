@@ -558,7 +558,7 @@ Tiddler
 p176
 (dp177
 g18
-VTime to find a real idea.\u000a\u000aIn a stroke of genius, you decide to look up what Edmund McMillen did before Super Meat Boy and Binding of Isaac.\u000a\u000aYou 
+VTime to find a real idea.\u000a\u000aIn a stroke of genius, you decide to look up what Edmund McMillen did before Super Meat Boy and Binding of Isaac.\u000a\u000aYou fire up Newgrounds and discover the pinnacle of the Basement Collection: <html><a href="http://www.newgrounds.com/portal/view/422918" target=_blank>Coil</a></html>.\u000a\u000aYes, platformers and first-person shooters are overdone, you think a neat puzzle game with no instructions will be much better.\u000a\u000aTime to choose the style of the game:\u000a\u000a* [[Vector graphics!]]\u000a* [[Pixel art!]]
 p178
 sg20
 (lp179
@@ -582,7 +582,192 @@ g183
 sg29
 Vnot mlp
 p184
+sbsa(dp185
+g12
+I00
+sg13
+(lp186
+I1174
+aI1201
+asg15
+(itiddlywiki
+Tiddler
+p187
+(dp188
+g18
+V<<actions>>
+p189
+sg20
+(lp190
+sg22
+g23
+((I2013
+I1
+I29
+I21
+I40
+I40
+I1
+I29
+I0
+tp191
+(dp192
+tp193
+Rp194
+sg28
+g194
+sg29
+VTools
+p195
+sbsa(dp196
+g12
+I00
+sg13
+(lp197
+I1018
+aI735
+asg15
+(itiddlywiki
+Tiddler
+p198
+(dp199
+g18
+VStanding on the shoulders of Bézier, you decide that your game will have smooth curves and eerie gradients.\u000a\u000aConfident in your spline skills, you:\u000a\u000a* [[Fire up Inkscape]]\u000a* [[Fire up Flash CS3]]\u000a
+p200
+sg20
+(lp201
+sg22
+g23
+((I2013
+I1
+I29
+I21
+I41
+I28
+I1
+I29
+I0
+tp202
+(dp203
+tp204
+Rp205
+sg28
+g205
+sg29
+VVector graphics!
+p206
+sbsa(dp207
+g12
+I00
+sg13
+(lp208
+I1181
+aI824
+asg15
+(itiddlywiki
+Tiddler
+p209
+(dp210
+g18
+VInkscape won't start. It's complaining about the lack of, huh, the GTK+ Frame works or something. Ah right, you uninstalled Pidgin earlier.\u000a\u000aYou curse the lunatic CS student who advised you to try open-source tools and, determined to get a game up and running, you [[Fire up Flash CS3]].
+p211
+sg20
+(lp212
+sg22
+g23
+((I2013
+I1
+I29
+I21
+I45
+I44
+I1
+I29
+I0
+tp213
+(dp214
+tp215
+Rp216
+sg28
+g216
+sg29
+VFire up Inkscape
+p217
+sbsa(dp218
+g12
+I01
+sg13
+(lp219
+I1020
+aI903
+asg15
+(itiddlywiki
+Tiddler
+p220
+(dp221
+g18
+VFlash CS3 starts.\u000a\u000aOr rather, it begins to start. You decide to make yourself coffee while it loads.\u000a\u000aYou've had time to boil water, pour yourself a cup, and drink half of it while, finally, Flash opens up with a blank slate - the perfect beginning to a perfect jam game.\u000a\u000aAs you select the pencil tool, Flash suddenly crashes. You surprise yourself at being surprised at such a pleonasmic occurence, you decide that you've had enough trouble with vector graphics, and change your mind.\u000a\u000aYour game will be retro! You preemptively gain 20 indie points. Time for some [[Pixel art!]]
+p222
+sg20
+(lp223
+sg22
+g23
+((I2013
+I1
+I29
+I21
+I46
+I52
+I1
+I29
+I0
+tp224
+(dp225
+tp226
+Rp227
+sg28
+g227
+sg29
+VFire up Flash CS3
+p228
+sbsa(dp229
+g12
+I00
+sg13
+(lp230
+I849
+aI1200
+asg15
+(itiddlywiki
+Tiddler
+p231
+(dp232
+g18
+S''
+p233
+sg20
+(lp234
+sg22
+g23
+((I2013
+I1
+I29
+I21
+I49
+I59
+I1
+I29
+I0
+tp235
+(dp236
+tp237
+Rp238
+sg28
+g238
+sg29
+VPixel art!
+p239
 sbsasS'scale'
-p185
+p240
 I1
 ss.
