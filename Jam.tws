@@ -34,7 +34,7 @@ p16
 (dp17
 S'text'
 p18
-VIt's a nice winter evening.\u000a\u000aWhile checking your Twitter feed, you realize ''LoveThisJam'' is about to start! The theme is ''pausodonoptic''.\u000a\u000aSince your exams don't start for another week, you decide to spend the next 48 hours creating a game for this jam.\u000a\u000aBut first:\u000a\u000a<<display "Pre actions">>\u000a\u000a<<set $broke = 0>>
+VIt's a nice winter evening.\u000a\u000aWhile checking your Twitter feed, you realize ''LoveThisJam'' is about to start! The theme is ''pausodonoptic''.\u000a\u000aSince your exams don't start for another week, you decide to spend the next 48 hours creating a game for this jam.\u000a\u000aBut first:\u000a\u000a<<display "Pre actions">>\u000a\u000a<<set $broke = 0>>\u000a<<set $vcs = 0>>
 p19
 sS'tags'
 p20
@@ -114,7 +114,7 @@ Tiddler
 p44
 (dp45
 g18
-V"Hey guys! I'm doing #LoveThisJam, and so should you!" @yetanotherindiegamedev - now\u000a\u000aNo retweets. No favorites. You remember you only have 93 followers, 28 of which are spambots, and 9 others are your various fake company accounts.\u000a\u000aHowever, your determination is infaillible and you decide to go on:\u000a\u000a<<display "Pre actions">>
+V"Hey guys! I'm doing #NeverJam, and so should you!" @yetanotherindiegamedev - now\u000a\u000aNo retweets. No favorites. You remember you only have 93 followers, 28 of which are spambots, and 9 others are your various fake company accounts.\u000a\u000aHowever, your determination is infaillible and you decide to go on:\u000a\u000a<<display "Pre actions">>
 p46
 sg20
 (lp47
@@ -484,7 +484,7 @@ Tiddler
 p154
 (dp155
 g18
-VAt a complete loss for game ideas, you tweet for help using the official hashtag of the event, #LoveThisJam.\u000a\u000aNothing happens for a few minutes, and you watch your tweet be buried under dozens of old-school retweets of the Jam kick-off announce.\u000a\u000aThen suddenly, you get a tweet suggesting that you do a My Little Pony-themed game.\u000a\u000a* [[Love it!|mlp]]\u000a* [[Don't be silly.|not mlp]]\u000a
+VAt a complete loss for game ideas, you tweet for help using the official hashtag of the event, #NeverJam.\u000a\u000aNothing happens for a few minutes, and you watch your tweet be buried under dozens of old-school retweets of the Jam kick-off announce.\u000a\u000aThen suddenly, you get a tweet suggesting that you do a My Little Pony-themed game.\u000a\u000a* [[Love it!|mlp]]\u000a* [[Don't be silly.|not mlp]]\u000a
 p156
 sg20
 (lp157
@@ -558,7 +558,7 @@ Tiddler
 p176
 (dp177
 g18
-VTime to find a real idea.\u000a\u000aIn a stroke of genius, you decide to look up what Edmund McMillen did before Super Meat Boy and Binding of Isaac.\u000a\u000aYou fire up Newgrounds and discover the pinnacle of the Basement Collection: <html><a href="http://www.newgrounds.com/portal/view/422918" target=_blank>Coil</a></html>.\u000a\u000aYes, platformers and first-person shooters are overdone, you think a neat puzzle game with no instructions will be much better.\u000a\u000aTime to choose the style of the game:\u000a\u000a* [[Vector graphics!]]\u000a* [[Pixel art!]]\u000a
+VTime to find a real idea.\u000a\u000aIn a stroke of genius, you decide to look up what Edmund McMillen did before Super Meat Boy and Binding of Isaac.\u000a\u000aYou fire up Newgrounds and discover the pinnacle of the Basement Collection: Coil.\u000a\u000aYes, platformers and first-person shooters are overdone, you think a neat puzzle game with no clear instructions will be much better.\u000a\u000aTime to choose the style of the game:\u000a\u000a* [[Vector graphics!]]\u000a* [[Pixel art!]]\u000a
 p178
 sg20
 (lp179
@@ -891,7 +891,7 @@ Tiddler
 p275
 (dp276
 g18
-V<<actions "Use Game Maker" "Use Unity" "Use C++" "Use Java">>\u000a
+V<<actions "Use Game Maker" "Use Unity" "Use C++" "Use ooc" "Use Java">>\u000a
 p277
 sg20
 (lp278
@@ -1213,11 +1213,11 @@ VGive up on C++
 p371
 sbsa(dp372
 g12
-I01
+I00
 sg13
 (lp373
-F1247.4999999999995
-aF1374.9999999999995
+F1463.4999999999995
+aF1750.9999999999995
 asg15
 (itiddlywiki
 Tiddler
@@ -1248,7 +1248,1302 @@ g381
 sg29
 VUse Java
 p382
+sbsa(dp383
+g12
+I00
+sg13
+(lp384
+F1229.0
+aF1128.0
+asg15
+(itiddlywiki
+Tiddler
+p385
+(dp386
+g18
+VYou remember a programming language from a year-old HackerNews post that seemed easy to write, although not that canonical.\u000a\u000aYou quickly get to the homepage and realize the description contains unicorns. Who do they think you are? This is a serious project, you cannot afford to use hobbyist technology here.\u000a\u000aBack to enterprise-quality tools:\u000a\u000a<<display "Programming tools options">>
+p387
+sg20
+(lp388
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I9
+I35
+I1
+I29
+I0
+tp389
+(dp390
+tp391
+Rp392
+sg28
+g392
+sg29
+VUse ooc
+p393
+sbsa(dp394
+g12
+I00
+sg13
+(lp395
+F1297.0
+aF2071.0
+asg15
+(itiddlywiki
+Tiddler
+p396
+(dp397
+g18
+V<<actions "Drink tea" "Tweet your game prototype" "Save your work">>
+p398
+sg20
+(lp399
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I12
+I27
+I1
+I29
+I0
+tp400
+(dp401
+tp402
+Rp403
+sg28
+g403
+sg29
+VPrototype options
+p404
+sbsa(dp405
+g12
+I00
+sg13
+(lp406
+F1482.0
+aF2274.0
+asg15
+(itiddlywiki
+Tiddler
+p407
+(dp408
+g18
+VTo stay on the safe side, you decide to save your work.\u000a\u000aBut then you wonder... is it worth using a version control system to track the progress of your game?\u000a\u000a* [[Sure, use a version control system|VCS]]\u000a* [[No need|No VCS]]
+p409
+sg20
+(lp410
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I14
+I5
+I1
+I29
+I0
+tp411
+(dp412
+tp413
+Rp414
+sg28
+g414
+sg29
+VSave your work
+p415
+sbsa(dp416
+g12
+I00
+sg13
+(lp417
+F1677.0
+aF2282.0
+asg15
+(itiddlywiki
+Tiddler
+p418
+(dp419
+g18
+VYour legendary wisdom dictates that you use a version control system to back up your work in case anything should go awry.\u000a\u000aYou try using Subversion at first, partly because you're used to it from school, but also because it seems to have a good Eclipse plug-in.\u000a\u000aLater, you decide to give up on it when you realize Sourceforge is not the site it was before, and that the Subersion plug-in download has been stuck for half an hour already.\u000a\u000a[[Give git a try|Git]]\u000a\u000a<<set $vcs = 1>>
+p420
+sg20
+(lp421
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I17
+I24
+I1
+I29
+I0
+tp422
+(dp423
+tp424
+Rp425
+sg28
+g425
+sg29
+VVCS
+p426
+sbsa(dp427
+g12
+I00
+sg13
+(lp428
+F1679.0
+aF2443.0
+asg15
+(itiddlywiki
+Tiddler
+p429
+(dp430
+g18
+VEnough of this centralized poppycock, let's use a ''real'' versioning system instead.\u000a\u000aAfter just a few hours of setup, you have msysgit installed with a new SSH key successfully imported into your GitHub account.\u000a\u000aYou then realize GitHub has a native Windows app, but a well-timed tweet by a 16K-followers account clamors, as to justify the time you just wasted, that ''Real programmers use the command line''.\u000a\u000aTime to:\u000a\u000a<<display "Prototype options">>
+p431
+sg20
+(lp432
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I19
+I58
+I1
+I29
+I0
+tp433
+(dp434
+tp435
+Rp436
+sg28
+g436
+sg29
+VGit
+p437
+sbsa(dp438
+g12
+I00
+sg13
+(lp439
+F1483.0
+aF2446.0
+asg15
+(itiddlywiki
+Tiddler
+p440
+(dp441
+g18
+VVersion control systems are for the weak! You are pretty sure that your mighty brain can contain all the history of your project fine, thankyouverymuch, and that you don't need no stinkin' piece of software to help you track it down.\u000a\u000aYou throw your project somewhere in your filesystem and forget about it for a minute.\u000a\u000aThen, you decide to:\u000a\u000a<<display "Prototype options">>
+p442
+sg20
+(lp443
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I22
+I46
+I1
+I29
+I0
+tp444
+(dp445
+tp446
+Rp447
+sg28
+g447
+sg29
+VNo VCS
+p448
+sbsa(dp449
+g12
+I00
+sg13
+(lp450
+F1525.0
+aF2071.0
+asg15
+(itiddlywiki
+Tiddler
+p451
+(dp452
+g18
+VAh, tea, the cornerstone of any nutritious game jam.\u000a\u000aYou congratulate yourself on having thought of such a neat drink, and decide to empty the 6-pack of energy drinks you had bought earlier in the toilet.\u000a\u000aAs you scan your kitchen for teabags, you realize they are nowhere to be found. Come to think of it, you've never even delved in teabagging. It just occured to you because you read the "10 Health Tips for Indie Game Creators" article on Gamasutra earlier.\u000a\u000aAnd at this hour, the stores are closed.\u000a\u000aGreat, now you have to drink "water". How glamorous.\u000a\u000a<<display "Prototype options">>
+p453
+sg20
+(lp454
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I24
+I40
+I1
+I29
+I0
+tp455
+(dp456
+tp457
+Rp458
+sg28
+g458
+sg29
+VDrink tea
+p459
+sbsa(dp460
+g12
+I00
+sg13
+(lp461
+F883.0
+aF2242.0
+asg15
+(itiddlywiki
+Tiddler
+p462
+(dp463
+g18
+VAs pride makes it way from your nostrils to your fingertips, you decide to give the world a taste of your medicine and tweet out your game to show them what you're capable of in such a short amount of time (a mere ten hours).\u000a\u000aBut there's [[no answer]].
+p464
+sg20
+(lp465
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I27
+I52
+I1
+I29
+I0
+tp466
+(dp467
+tp468
+Rp469
+sg28
+g469
+sg29
+VTweet your game prototype
+p470
+sbsa(dp471
+g12
+I00
+sg13
+(lp472
+F884.0
+aF2394.0
+asg15
+(itiddlywiki
+Tiddler
+p473
+(dp474
+g18
+VOh, that's right. You forgot the jam's hashtag.\u000a\u000aYou hastily remove your old tweet, well-aware that there's a good chance mobile clients will still see it - but most of your followers don't care about game development anyway (those peasants) - and tweet again using the hashtag #NeverJam.\u000a\u000aThis time, there are a few answers:\u000a\u000a<<display "Prototype tweets">>
+p475
+sg20
+(lp476
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I30
+I18
+I1
+I29
+I0
+tp477
+(dp478
+tp479
+Rp480
+sg28
+g480
+sg29
+Vno answer
+p481
+sbsa(dp482
+g12
+I00
+sg13
+(lp483
+F688.0
+aF2538.0
+asg15
+(itiddlywiki
+Tiddler
+p484
+(dp485
+g18
+V<<actions "tweet by @penguin23" "tweet by @unfinished_cookie" "tweet by @jam_ebooks" "Enough twatter!">>
+p486
+sg20
+(lp487
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I32
+I23
+I1
+I29
+I0
+tp488
+(dp489
+tp490
+Rp491
+sg28
+g491
+sg29
+VPrototype tweets
+p492
+sbsa(dp493
+g12
+I00
+sg13
+(lp494
+F587.0
+aF2803.0
+asg15
+(itiddlywiki
+Tiddler
+p495
+(dp496
+g18
+V"I tried to launch it but it complains about missing JNI DLLs missing. I'm on Ubuntu 12.04. Help?" - @penguin23\u000a\u000a...\u000a\u000a\u000aAnd there you thought Java ran everywhere. But then again, what is he/she doing on such an arcane operating system? You thought everyone gave up on this silliness long ago. If only everyone could be like you and run Windows only.\u000a\u000aYou answer politely that there might be a Linux version later, if you have time, but that for now you gotta give it up to the ol'Redmond firm.\u000a\u000a<<display "Prototype tweets">>
+p497
+sg20
+(lp498
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I34
+I52
+I1
+I29
+I0
+tp499
+(dp500
+tp501
+Rp502
+sg28
+g502
+sg29
+Vtweet by @penguin23
+p503
+sbsa(dp504
+g12
+I00
+sg13
+(lp505
+F737.0
+aF2803.0
+asg15
+(itiddlywiki
+Tiddler
+p506
+(dp507
+g18
+V"Wow, this looks great! Is it on Greenlight? It could use a few parallax planes and some more particles, but I love it already." - @unfinished_cookie\u000a\u000aAh, at last some positive feedback. You favorite the tweet but don't answer it now. After all, you're very busy and this jam means business.\u000a\u000a<<display "Prototype tweets">>
+p508
+sg20
+(lp509
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I37
+I20
+I1
+I29
+I0
+tp510
+(dp511
+tp512
+Rp513
+sg28
+g513
+sg29
+Vtweet by @unfinished_cookie
+p514
+sbsa(dp515
+g12
+I00
+sg13
+(lp516
+F877.0
+aF2803.0
+asg15
+(itiddlywiki
+Tiddler
+p517
+(dp518
+g18
+V"from after you graduate from" - @jam_ebooks\u000a\u000aAhah! Instant classic, instant favorite.\u000a\u000aYou have no idea what this means but you positively adore the idea of Twitter novelty accounts.\u000a\u000a<<display "Prototype tweets">>
+p519
+sg20
+(lp520
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I39
+I1
+I1
+I29
+I0
+tp521
+(dp522
+tp523
+Rp524
+sg28
+g524
+sg29
+Vtweet by @jam_ebooks
+p525
+sbsa(dp526
+g12
+I00
+sg13
+(lp527
+F1018.0
+aF2803.0
+asg15
+(itiddlywiki
+Tiddler
+p528
+(dp529
+g18
+VSatisfied with the feedback you've gotten, you decide it's time to start fleshing out the game.\u000a\u000aThe movement is too jittery, you think - it would be better if the protagonist didn't map the mouse cursor's position directly, but if instead it followed it in a smooth manner.\u000a\u000aYour linear algebra courses spring to mind. What was that algorithm again.. oh right, interpolation! Linear, quadratic, retrophallic, whatever.\u000a\u000aYou quickly jot down a few lines of Java in your game prototype, and [[recompile it]].\u000a
+p530
+sg20
+(lp531
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I39
+I59
+I1
+I29
+I0
+tp532
+(dp533
+tp534
+Rp535
+sg28
+g535
+sg29
+VEnough twatter!
+p536
+sbsa(dp537
+g12
+I00
+sg13
+(lp538
+F1017.9999999999999
+aF3003.0
+asg15
+(itiddlywiki
+Tiddler
+p539
+(dp540
+g18
+V"This shouldn't be taking that long", you think to yourself. After all, you only have about three hundred lines of code, most of which is copy-pasted from other places.\u000a\u000aCan't Eclipse use Google's cache to figure out pieces of code that are used often? You promise yourself to investigate that genius idea later, but don't write it down, by fear that it would get lost in the mass of your other no-less genii ideas.\u000a\u000a"182 compilation errors and 109 warnings? That doesn't sound right" - you ejact as the fans of your laptop slowly die down to the quietness you only know when you're not watching Let's Play series on YouTube.\u000a\u000aAh, it seems you've forgotten a semi-colon.\u000a\u000a[[Fix it]]
+p541
+sg20
+(lp542
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I41
+I54
+I1
+I29
+I0
+tp543
+(dp544
+tp545
+Rp546
+sg28
+g546
+sg29
+Vrecompile it
+p547
+sbsa(dp548
+g12
+I00
+sg13
+(lp549
+F1183.3333333333337
+aF3001.6666666666665
+asg15
+(itiddlywiki
+Tiddler
+p550
+(dp551
+g18
+VAfter adding a semicolon - and removing a few extraneous ones, your project compiles at last.\u000a\u000aYou launch it, see your magnificent MS Paint art on the middle of the screen, and move your mouse, only to see it accelerate and disappear into the nothingness beyond the boundaries of your screen.\u000a\u000a"Impossible!" you burst, as you ragingly Ctrl-Alt-Del your way out of this screen-hogging piece of indie craft.\u000a\u000aWhat to do next?\u000a\u000a<<actions "Debug it" "Rewrite the code from scratch">>
+p552
+sg20
+(lp553
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I46
+I13
+I1
+I29
+I0
+tp554
+(dp555
+tp556
+Rp557
+sg28
+g557
+sg29
+VFix it
+p558
+sbsa(dp559
+g12
+I00
+sg13
+(lp560
+F1061.6666666666665
+aF3151.6666666666665
+asg15
+(itiddlywiki
+Tiddler
+p561
+(dp562
+g18
+VYou launch the Eclipse debugger for your application, and notice nothing has changed.\u000a\u000aOh, right - the game is fullscreen. For once, you know how to change that. A few lines of code later, your game is running in windows mode.\u000a\u000aHowever, you have a problem - the debugger never seems to stop your game anywhere. You have a feeling there is something missing in your debugging adventure, and you sighingly Google for a solution - again.\u000a\u000aApparently the results for "I can't debug my game" lead to a comic by Randall Munroe, an Experts-Exchange question behind a paywall, and a forum thread that mentions "break points" on the 3rd page.\u000a\u000aYou have no idea what a break point is, but if you can trust your extensive Kung Fu movie collection, it sounds pretty painful.\u000a\u000aYou decide to [[Rewrite the code from scratch]] instead.
+p563
+sg20
+(lp564
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I49
+I36
+I1
+I29
+I0
+tp565
+(dp566
+tp567
+Rp568
+sg28
+g568
+sg29
+VDebug it
+p569
+sbsa(dp570
+g12
+I00
+sg13
+(lp571
+F1276.6666666666672
+aF3153.3333333333344
+asg15
+(itiddlywiki
+Tiddler
+p572
+(dp573
+g18
+VPulling up your sleeves, you decide to go all in and settle for a complete rewrite of your codebase.\u000a\u000aSure, there's only 4 hours left before the deadline, but that should be plenty, given that it's the second time you're writing the same piece of code.\u000a\u000aThis time, you decide to give up on copying source code from hazardous website, and you work only from the [[reference documentation]] of LWJGL itself.
+p574
+sg20
+(lp575
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I50
+I8
+I1
+I29
+I0
+tp576
+(dp577
+tp578
+Rp579
+sg28
+g579
+sg29
+VRewrite the code from scratch
+p580
+sbsa(dp581
+g12
+I00
+sg13
+(lp582
+F1281.6666666666658
+aF3329.9999999999973
+asg15
+(itiddlywiki
+Tiddler
+p583
+(dp584
+g18
+VA mere 3 hours later, you've got a black window running again. Who's the dev? You the dev!\u000a\u000aTime to write the game logic. Your best resources are lined up below:\u000a\u000a<<display "Game logic options">>
+p585
+sg20
+(lp586
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I54
+I6
+I1
+I29
+I0
+tp587
+(dp588
+tp589
+Rp590
+sg28
+g590
+sg29
+Vreference documentation
+p591
+sbsa(dp592
+g12
+I00
+sg13
+(lp593
+F1281.6666666666674
+aF3494.9999999999968
+asg15
+(itiddlywiki
+Tiddler
+p594
+(dp595
+g18
+V<<actions "Read an old Gamasutra article" "Read your high-school linear algebra book" "Check Twitter" "Revert to the first working version">>\u000a
+p596
+sg20
+(lp597
+sg22
+g23
+((I2013
+I1
+I29
+I23
+I55
+I4
+I1
+I29
+I0
+tp598
+(dp599
+tp600
+Rp601
+sg28
+g601
+sg29
+VGame logic options
+p602
+sbsa(dp603
+g12
+I00
+sg13
+(lp604
+F1116.6666666666661
+aF3695.0
+asg15
+(itiddlywiki
+Tiddler
+p605
+(dp606
+g18
+VYou start reading a 2003 article you found by googling "Obscure mouse postmortem" on Gamasutra.com - which, let's be honest, stands at the last reliable source of information online for serious indie developers like yourself.\u000a\u000aIt reads nicely, it has that vintage feel that every piece of technical writing acquires automatically after six months of existence.\u000a\u000aHowever, you realize that there's only code excerpts in there, but no full example that you can run. Sure, you've made a rule not to copy others' code this time, but still - how can you learn if they don't make any effort?\u000a\u000aReading the comments, you discover that the article refers to an old version of OpenGL that only had the fixed pipeline.\u000a\u000aYou take a moment to try and make the connection between the oil business and game programming - and fail to do so. But from what you can gather, that code fell entirely out of style, and you're better off using shaders or whatnot.\u000a\u000aTurning to other sources, you:\u000a\u000a<<display "Game logic options">>
+p607
+sg20
+(lp608
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I5
+I12
+I2
+I30
+I0
+tp609
+(dp610
+tp611
+Rp612
+sg28
+g612
+sg29
+VRead an old Gamasutra article
+p613
+sbsa(dp614
+g12
+I00
+sg13
+(lp615
+F1280.0
+aF3693.0
+asg15
+(itiddlywiki
+Tiddler
+p616
+(dp617
+g18
+VMath is the basis of everything, even love. And, like the latter, it remains the same after years of constant evolution.\u000a\u000aYour book is still at the same place, in your bookshelf, and, although dusted, you feel the wisdom of the ancients emanating from the pages as you turn the cover.\u000a\u000aBrowsing through, you keep stumbling upon the term "matrix" - which eventually reminds you of how awesome that old-school 1999 movie was.\u000a\u000aYou get side-tracked and watch it clips from it on YouTube.\u000a\u000aYou look at your computer's clock: Waugh, another 2 hours lost! Angry, you close the book and go back to your computer:\u000a\u000a<<display "Game logic options">>
+p618
+sg20
+(lp619
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I10
+I25
+I2
+I30
+I0
+tp620
+(dp621
+tp622
+Rp623
+sg28
+g623
+sg29
+VRead your high-school linear algebra book
+p624
+sbsa(dp625
+g12
+I00
+sg13
+(lp626
+F1469.0
+aF3691.0
+asg15
+(itiddlywiki
+Tiddler
+p627
+(dp628
+g18
+VDesperate for any kind of advice on how to get that dream idea of yours into a real, honest-to-god gaming experience, you turn to Twitter for help once again.\u000a\u000aHowever, before you even have the time to click on 'New tweet', something catches your eye: \u000a\u000a"I would enter #NeverJam but can't code fo the life of me. Any coderz around in need of a 2D pixel artist? I drew a panda once." - @delusional_lazypants\u000a\u000aYou make agile jumps from link to link and find the aforementioned panda sketch. There's no denying that your own art pales in comparison.\u000a\u000aYou suddenly start to feel slightly bad about yourself. Oh how you wish you had all the talents in the world. Then you wouldn't have to resort to other humans to do your bidding.\u000a\u000a[[Follow @delusional_lazypants]]
+p629
+sg20
+(lp630
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I14
+I14
+I2
+I30
+I0
+tp631
+(dp632
+tp633
+Rp634
+sg28
+g634
+sg29
+VCheck Twitter
+p635
+sbsa(dp636
+g12
+I00
+sg13
+(lp637
+F1467.0
+aF3850.0
+asg15
+(itiddlywiki
+Tiddler
+p638
+(dp639
+g18
+VYou follow him. Or wait - that's a her.\u000a\u000aAnother tweet quickly pops up in your timeline:\u000a\u000a"What I'd really like is some sort of online game with a universe as large as earth itself, with spaceships and battles - but also trade[...]" - @delusional_lazypants\u000a\u000aAnd another:\u000a\u000a"The problem is that I can't find a coder who's fast enough for me. If you can't come up with a GTA V clone in two hours, pass!" - @delusional_lazypants\u000a\u000aYou can almost taste the bitterness. You would like to help this poor soul, but your gut feeling is to leave it at that and keep on trucking.\u000a\u000aYou can't help feeling slightly guilty to pass on such an opportunity, especially since it's a she - just for that, you feel a little sexist.\u000a\u000aYou retweet a #1reason tweet to feel better, and decide to:\u000a\u000a<<display "Game logic options">>
+p640
+sg20
+(lp641
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I20
+I14
+I2
+I30
+I0
+tp642
+(dp643
+tp644
+Rp645
+sg28
+g645
+sg29
+VFollow @delusional_lazypants
+p646
+sbsa(dp647
+g12
+I00
+sg13
+(lp648
+F1682.0
+aF3492.0
+asg15
+(itiddlywiki
+Tiddler
+p649
+(dp650
+g18
+VThere's only 30 minutes left before the deadline, and the tension is palpable. You can feel the stress all along your arteries, and then lodging under your left sock.\u000a\u000a*twitch* *twitch*\u000a\u000aSpiteful, you decide to revert your game to the first working version, so you have something to release.\u000a\u000a<<if $vcs>>\u000aThankfully, you've used git to track the progress of your project.\u000a\u000aAll you have to do is simply to [[roll back]] to the last working build!\u000a<<else>>\u000aIn horror, you realize you haven't used used a vcs to track the progress of your project. All your previous work is lost! And all you are left with is a skeleton of a game - a black window, with nothing to do.\u000a\u000aBut suddenly, [[you have a terrible idea]].\u000a<<endif>>\u000a
+p651
+sg20
+(lp652
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I24
+I35
+I2
+I30
+I0
+tp653
+(dp654
+tp655
+Rp656
+sg28
+g656
+sg29
+VRevert to the first working version
+p657
+sbsa(dp658
+g12
+I00
+sg13
+(lp659
+F1846.0
+aF3363.0
+asg15
+(itiddlywiki
+Tiddler
+p660
+(dp661
+g18
+VYou quickly juggle with a few expert git commands.\u000a\u000agit rm -r uncommitted2/\u000a\u000aNo, wait,\u000a\u000arm -r uncommited2/\u000a\u000agit reset --hard\u000a\u000agit clean -f\u000a\u000agit checkout ba90s0df987w9d8fa9b87a98sd7deadbeef .\u000a\u000agit push origin master --force\u000a\u000aRecompile, and... *phew*. It runs again. Your beautiful hero, following your mouse as if nothing could stop it (except, as mentioned before, the limits of the screen itself. But you expect the player to be one of those "thinking outside the box" types).\u000a\u000aOnly 10 minutes are left on the clock, it's time to [[publish it]].
+p662
+sg20
+(lp663
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I28
+I27
+I2
+I30
+I0
+tp664
+(dp665
+tp666
+Rp667
+sg28
+g667
+sg29
+Vroll back
+p668
+sbsa(dp669
+g12
+I00
+sg13
+(lp670
+F2028.0
+aF3362.0
+asg15
+(itiddlywiki
+Tiddler
+p671
+(dp672
+g18
+VYou look up how to create installers for Java games.\u000a\u000aYou find a Sourceforge project with no releases since 2007. A GitHub project with only a README. And a commercial tool from EnterpriseSoft Ltd.\u000a\u000aYou realize you won't have the time to package it properly, and as time is becoming a more important factor, you package it hurrily in a .jar (this oughta please @unfinished_cookie) and go on [[the jam's website]].
+p673
+sg20
+(lp674
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I31
+I10
+I2
+I30
+I0
+tp675
+(dp676
+tp677
+Rp678
+sg28
+g678
+sg29
+Vpublish it
+p679
+sbsa(dp680
+g12
+I00
+sg13
+(lp681
+F2027.0
+aF3541.0
+asg15
+(itiddlywiki
+Tiddler
+p682
+(dp683
+g18
+VIt doesn't load.\u000a\u000a[[Press F5]]
+p684
+sg20
+(lp685
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I33
+I24
+I2
+I30
+I0
+tp686
+(dp687
+tp688
+Rp689
+sg28
+g689
+sg29
+Vthe jam's website
+p690
+sbsa(dp691
+g12
+I00
+sg13
+(lp692
+F2027.0
+aF3704.0
+asg15
+(itiddlywiki
+Tiddler
+p693
+(dp694
+g18
+VThe website loads quickly this time... only to show you a 502 Gateway Error page.\u000a\u000aYou quickly check Twitter, and find out that there's an hour for post-deadline submission.\u000a\u000aRe-assured, you decide to:\u000a\u000a[[Keep jamming F5]] until it loads.\u000a[[Take a small nap]] to avoid rush hour.
+p695
+sg20
+(lp696
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I33
+I43
+I2
+I30
+I0
+tp697
+(dp698
+tp699
+Rp700
+sg28
+g700
+sg29
+VPress F5
+p701
+sbsa(dp702
+g12
+I00
+sg13
+(lp703
+F1847.0
+aF3543.0
+asg15
+(itiddlywiki
+Tiddler
+p704
+(dp705
+g18
+VIt's as if Niccolò di Bernardo dei Machiavegli himself had paid a visit to your brain in the middle of the night.\u000a\u000aWhat if you published it anyway?\u000a\u000aA groundbreaking experience in non-games. The forerunner of a movement of dozens - the ultimate indie transgression. A game that's only a black screen.\u000a\u000aAs the player is presented with the hard choice to keep the game running and buy a new computer, or to Ctrl-Alt-Del and quit it, he is forced to reflect on his own inner emptiness.\u000a\u000a''Brilliant!'', you think, as you hurry to [[the jam's website]] to publish it.
+p706
+sg20
+(lp707
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I34
+I8
+I2
+I30
+I0
+tp708
+(dp709
+tp710
+Rp711
+sg28
+g711
+sg29
+Vyou have a terrible idea
+p712
+sbsa(dp713
+g12
+I00
+sg13
+(lp714
+F1908.25
+aF3886.5
+asg15
+(itiddlywiki
+Tiddler
+p715
+(dp716
+g18
+VYou cautiously set up an iPhone alarm in 20 minutes, which should be leave you plenty of time to submit your game afterwards, and then - liberated - fall asleep on your one-person bed.\u000a\u000a[[ZZZzzz]]
+p717
+sg20
+(lp718
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I42
+I22
+I2
+I30
+I0
+tp719
+(dp720
+tp721
+Rp722
+sg28
+g722
+sg29
+VTake a small nap
+p723
+sbsa(dp724
+g12
+I00
+sg13
+(lp725
+F1908.75
+aF4066.25
+asg15
+(itiddlywiki
+Tiddler
+p726
+(dp727
+g18
+VAh... sweet, sweet, blissful sleep.\u000a\u000aNo wait, you dream of a Mario/Portal crossover. How silly dreams can be right? Stuck in a mushroom kingdom, you try to port your way through to king Koopa.\u000a\u000aCan you create new pipes? It would appear so. But some are blue, and the others are red. What is the meaning of this? No time to lose, gotta save the princess.\u000a\u000aYou arrive to the castle. Alert, you jump over the bridge and you see the princess.\u000a\u000aIt's your mother. What is the meaning of this? So many questions, so few answers, and a slight sense of deja-vu.\u000a\u000aAnd [[into the darkness]] you disappear again...
+p728
+sg20
+(lp729
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I44
+I17
+I2
+I30
+I0
+tp730
+(dp731
+tp732
+Rp733
+sg28
+g733
+sg29
+VZZZzzz
+p734
+sbsa(dp735
+g12
+I00
+sg13
+(lp736
+F1908.75
+aF4246.25
+asg15
+(itiddlywiki
+Tiddler
+p737
+(dp738
+g18
+VYou wake up.\u000a\u000aYour whole body hurts, and your eyes are awash with dried tears.\u000a\u000aYou [[check the time]].
+p739
+sg20
+(lp740
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I53
+I51
+I2
+I30
+I0
+tp741
+(dp742
+tp743
+Rp744
+sg28
+g744
+sg29
+Vinto the darkness
+p745
+sbsa(dp746
+g12
+I00
+sg13
+(lp747
+F1912.5
+aF4416.25
+asg15
+(itiddlywiki
+Tiddler
+p748
+(dp749
+g18
+V2PM.\u000a\u000aWHAT!\u000a\u000aYou've missed the submission deadline!! How could this happen?\u000a\u000aYou're angry, and sad, and a dozen of other confused emotions that you cannot quite name.\u000a\u000aYou have one Twitter mention. @unfinished_cookie wants to know if you're doing okay. Well, you're not.\u000a\u000aIn rage, you quickly check the jam's website - ah, now it loads...\u000a\u000aThe most popular submission is a 3D Surgery Simulator.\u000a\u000aIt uses Unity.\u000a\u000aAh, the peasants...\u000a\u000a''THE END''
+p750
+sg20
+(lp751
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I55
+I11
+I2
+I30
+I0
+tp752
+(dp753
+tp754
+Rp755
+sg28
+g755
+sg29
+Vcheck the time
+p756
+sbsa(dp757
+g12
+I00
+sg13
+(lp758
+F2135.0
+aF3886.25
+asg15
+(itiddlywiki
+Tiddler
+p759
+(dp760
+g18
+V
+p761
+sg20
+(lp762
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I57
+I26
+I2
+I30
+I0
+tp763
+(dp764
+tp765
+Rp766
+sg28
+g766
+sg29
+VKeep jamming F5
+p767
 sbsasS'scale'
-p383
-F0.40000000000000008
+p768
+F0.80000000000000004
 ss.
