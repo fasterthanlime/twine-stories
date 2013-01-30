@@ -2511,15 +2511,15 @@ g12
 I00
 sg13
 (lp758
-F2135.0
-aF3886.25
+F2247.5
+aF3882.5
 asg15
 (itiddlywiki
 Tiddler
 p759
 (dp760
 g18
-V
+VEventually, and at the price of a slightly jammed key, you get the website to load.\u000a\u000aTime to go big or go home!\u000a\u000aYou fill out the game name:\u000a\u000a''Desertful artsiness''\u000a\u000aYou figure the best of breed indie gamers will get it.\u000a\u000aThen you [[hit submit]].
 p761
 sg20
 (lp762
@@ -2543,7 +2543,155 @@ g766
 sg29
 VKeep jamming F5
 p767
+sbsa(dp768
+g12
+I00
+sg13
+(lp769
+F2248.75
+aF4070.0
+asg15
+(itiddlywiki
+Tiddler
+p770
+(dp771
+g18
+VInstantly, the fatigue accumulated through these 48 hours of jamming hit you like a ton of koopa shells.\u000a\u000aAnd yet you can't get to sleep.. not after all that excitement.\u000a\u000aYou go and check other people's submission. One is about a princess that goes to save famous video game heroes. But it's Android only, and you only have an iPhone.\u000a\u000aYou try another one: it's a first person gardening simulation. For some reason, you get addicted really fast, and find a strange sense of entitlement and fulfillment in growing waterlilies - much like people did before Farmville was invented.\u000a\u000aSoothed by the sweet Wolfram Tones soundtrack of this work of love, you quietly [[fall asleep]].
+p772
+sg20
+(lp773
+sg22
+g23
+((I2013
+I1
+I30
+I0
+I59
+I34
+I2
+I30
+I0
+tp774
+(dp775
+tp776
+Rp777
+sg28
+g777
+sg29
+Vhit submit
+p778
+sbsa(dp779
+g12
+I01
+sg13
+(lp780
+F2251.25
+aF4252.5
+asg15
+(itiddlywiki
+Tiddler
+p781
+(dp782
+g18
+VWake up!\u000a\u000a...\u000a\u000aWAKE UP!\u000a\u000a''HMmMMmMmmmmm?''\u000a\u000a<<if $vcs>>\u000aYour roommate [[bursts in]].\u000a<<else>>\u000aYour girlfriend is [[looking at you]].\u000a<<endif>>
+p783
+sg20
+(lp784
+sg22
+g23
+((I2013
+I1
+I30
+I1
+I3
+I59
+I2
+I30
+I0
+tp785
+(dp786
+tp787
+Rp788
+sg28
+g788
+sg29
+Vfall asleep
+p789
+sbsa(dp790
+g12
+I00
+sg13
+(lp791
+F2478.75
+aF4255.0
+asg15
+(itiddlywiki
+Tiddler
+p792
+(dp793
+g18
+V"Have you heard? Oh you gotta check this out!\u000a\u000aKittenReich was the most popular game of #NeverJam - it's a remake of Wolfenstein 3D, in 2D, in Flash, with pixel art, an original didgeridoo soundtrack, where you play as a Siamese cat that's also a Jew and you get to shoot Hitler's offspring. It's FUCKING AWESOME!\u000a\u000aBut they censored it - they got accused of being sexist pigs, because the cat protagonist is male and Hitler has daughters in the game."\u000a\u000aConfused and unfazed by these news, you go to check out the jam's website. It loads instantly.\u000a\u000aYou check out the top 25. Your game is not there.\u000a\u000aYou check out the top 100. Your game is not there.\u000a\u000aYou search for your game by name. There it is.\u000a\u000a2 ratings. One comment.\u000a\u000a"I'm on Mac, how do I launch it?"\u000a\u000a''THE END''
+p794
+sg20
+(lp795
+sg22
+g23
+((I2013
+I1
+I30
+I1
+I6
+I7
+I2
+I30
+I0
+tp796
+(dp797
+tp798
+Rp799
+sg28
+g799
+sg29
+Vbursts in
+p800
+sbsa(dp801
+g12
+I00
+sg13
+(lp802
+F2250.0
+aF4415.0
+asg15
+(itiddlywiki
+Tiddler
+p803
+(dp804
+g18
+V"Honey, honey, it's wonderful! Have you read Rock Paper Shotgun today?"\u000a\u000a"Hmmm?"\u000a\u000aYou emerge from your sleep, blinking haphazardly, and check out the MacBook Pro she is handing you.\u000a\u000aThere it is: a review of your game.\u000a\u000aThe reviewer calls it "Brilliant!", gives it a 11/10 in originality, and has recorded a Vine clip of himself shitting his pants when playing it through for the second time.\u000a\u000aThere's already over 14'000 downloads, and so many mentions you can't even scroll back to read them all.\u000a\u000aYou immediately call your boss to quit your day job, and start designing the box art for your game's impending Steam release. But there'll be a twist: the box art is entirely white.\u000a\u000aCongratulations.\u000a\u000aYou are a legit indie game developer now.\u000a\u000a''THE END''
+p805
+sg20
+(lp806
+sg22
+g23
+((I2013
+I1
+I30
+I1
+I6
+I9
+I2
+I30
+I0
+tp807
+(dp808
+tp809
+Rp810
+sg28
+g810
+sg29
+Vlooking at you
+p811
 sbsasS'scale'
-p768
+p812
 F0.80000000000000004
 ss.
