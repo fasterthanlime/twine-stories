@@ -1,11 +1,11 @@
 (dp0
 S'buildDestination'
 p1
-VG:\u005cStories\u005cJam.html
+V/Users/amos/Dev/twine-stories/Jam.html
 p2
 sS'saveDestination'
 p3
-VG:\u005cStories\u005cJam.tws
+V/Users/amos/Dev/twine-stories/Jam.tws
 p4
 sS'target'
 p5
@@ -20,12 +20,12 @@ p9
 (dp11
 S'selected'
 p12
-I01
+I00
 sS'pos'
 p13
 (lp14
-I150
-aI150
+F52.5
+aF127.5
 asS'passage'
 p15
 (itiddlywiki
@@ -34,7 +34,7 @@ p16
 (dp17
 S'text'
 p18
-VIt's a nice winter evening.\u000a\u000aWhile checking your Twitter feed, you realize ''#NeverJam'' is about to start! The theme is ''pausodonoptic''.\u000a\u000aSince your exams don't start for another week, you decide to spend the next 48 hours creating a game for this jam.\u000a\u000aBut first:\u000a\u000a<<display "Pre actions">>\u000a\u000a<<set $broke = 0>>\u000a<<set $vcs = 0>>
+VThis game will allow you to get into the skin of a game developer who partakes in what we commonly call a "game jam": to take a few hours or a few days to create a game, and then submit it for fame and mostly, for fun!\u000a\u000aBe warned though: the content is humorous, but may be offensive to some. I apologize in advance, and please note that it does not reflect my actual thoughts!\u000a\u000aYour choices will determine you success in the game jam. There are different endings, and many pathways, so don't hesitate to play a few times so you can get the full game experience.\u000a\u000aWith that in mind, [[let's get started!|Prelude]]\u000a
 p19
 sS'tags'
 p20
@@ -114,7 +114,7 @@ Tiddler
 p44
 (dp45
 g18
-V"Hey guys! I'm doing #NeverJam, and so should you!" @yetanotherindiegamedev - now\u000a\u000aNo retweets. No favorites. You remember you only have 93 followers, 28 of which are spambots, and 9 others are your various fake company accounts.\u000a\u000aHowever, your determination is infaillible and you decide to go on:\u000a\u000a<<display "Pre actions">>
+V''Hey guys! I'm doing #NeverJam, and so should you!''\u000aNo retweets. No favorites. You remember you only have 93 followers, 28 of which are spambots, and 9 others are your various fake company accounts.\u000a\u000aHowever, your determination is infaillible.\u000a\u000a<<display "Pre actions">>
 p46
 sg20
 (lp47
@@ -151,7 +151,7 @@ Tiddler
 p55
 (dp56
 g18
-V\u000a<<actions "You tweet about entering the jam" "You go buy groceries" "You look up what the theme means">>\u000a\u000a
+V<<actions "You go buy groceries" "You look up what the theme means" "You tweet about entering the jam">>\u000a
 p57
 sg20
 (lp58
@@ -188,7 +188,7 @@ Tiddler
 p66
 (dp67
 g18
-VA few minutes later, you're on your way home with a 6-pack of energy drinks, biscuits, and three pizzas.\u000a\u000aYou feel ever more confident that this jam is going to be the best ever and that at last, you'll be able to show the world what you're really made of.\u000a\u000aNow that this is settled:\u000a\u000a<<display "Pre actions">>
+VA few minutes later, you're on your way home with a 6-pack of energy drinks, biscuits, and three pizzas.\u000a\u000aYou feel ever more confident that this jam is going to be the best ever and that at last, you'll be able to show the world what you're really made of.\u000a\u000a<<display "Pre actions">>
 p68
 sg20
 (lp69
@@ -225,7 +225,7 @@ Tiddler
 p77
 (dp78
 g18
-VA quick Google search turns up an advertisement from 1890, trying to sell you some miracle elixir from the past:\u000a\u000a''You will act with discretion if you buy the New Pausodonoptic Spectacles or Eye-Glasses, (convex or concave), so comfortable and cooling to the eyes. They will enable you to read or sew, especially at night, with positive pleasure when others fail."''\u000a\u000aConfused and a bit angry at the organizers, you wonder how they decide of the theme in these darned jams. Oh right, voting. But you're a busy man, and you don't have time for that.\u000a\u000aNow that you know what this jam is about, you start looking for a game idea that would genuinely mirror your genius.\u000a\u000a<<display "Idea actions">>\u000a
+VA quick Google search turns up an advertisement from 1890, trying to sell you some miracle elixir from the past:\u000a\u000a''You will act with discretion if you buy the New Pausodonoptic Spectacles or Eye-Glasses, (convex or concave), so comfortable and cooling to the eyes. They will enable you to read or sew, especially at night, with positive pleasure when others fail."''\u000aConfused and a bit angry at the organizers, you wonder how they decide of the theme in these darned jams. Oh right, voting. But you're a busy man, and you don't have time for that.\u000a\u000aNow that you know what this jam is about, you start looking for a game idea that would genuinely mirror your genius.\u000a\u000a<<display "Idea actions">>\u000a
 p79
 sg20
 (lp80
@@ -262,7 +262,7 @@ Tiddler
 p88
 (dp89
 g18
-V\u000a<<actions "Look at your old games for inspiration" "Open up reddit" "Open up Facebook" "Tweet for help">>\u000a
+V<<actions "Look at your old games for inspiration" "Tweet for help" "Open up reddit" "Open up Facebook">>\u000a
 p90
 sg20
 (lp91
@@ -336,7 +336,7 @@ Tiddler
 p110
 (dp111
 g18
-VIn a moment of bargain with yourself, you postulate that seeing a few random links for a what should be only minutes will help inspiration spring up, and you open up reddit.\u000a\u000aThe first link is an image posted to /r/WTF of a woman being penetrated by an equidae.\u000a\u000a* [[Eww, gross|Tweet for help]]\u000a* [[That's not even wtf-worthy!|Tweet for help]]\u000a* [[Masturbate|masturbate]]\u000a
+VIn a moment of bargain with yourself, you postulate that seeing a few random links for a what should be only minutes will help inspiration spring up, and you open up reddit.\u000a\u000aThe first link is an image posted to /r/WTF of a man with piercings in all the wrong places.\u000a\u000a* [[Eww, gross|Tweet for help]]\u000a* [[That's not even wtf-worthy!|Tweet for help]]\u000a* [[Masturbate|masturbate]]\u000a
 p112
 sg20
 (lp113
@@ -373,7 +373,7 @@ Tiddler
 p121
 (dp122
 g18
-VOvercome by shame, but still horny as fuck, you decide to indulge for a few minutes...\u000a\u000a.. make that seconds.\u000a\u000aFeeling as guilty as ever, but strangely relaxed, you try to get back on track and:\u000a\u000a<<display "Idea actions">>
+VOvercome by shame, but still horny as a seal, you decide to indulge for a few minutes...\u000a\u000aMake that a few seconds.\u000a\u000aFeeling as guilty as ever, but strangely relaxed, you try to get back on track.\u000a\u000a<<display "Idea actions">>
 p123
 sg20
 (lp124
@@ -410,7 +410,7 @@ Tiddler
 p132
 (dp133
 g18
-V<Ctrl-T>, f, <Enter>\u000a\u000aYou realize you have seen most of your timeline already, since the last time you checked Facebook was.. ten minutes ago.\u000a\u000aBesides, this is your new account where you only have ten friends. Facebook is too mainstream nowadays. You're secretly hoping more people would adopt Google+, but all you can read on there are Linus Torvald's rants about Gnome.\u000a\u000aOne of the posts is about a sappy romantic comedy. Another is a link to someone's latest SoundCloud song. It's an 8-bit cover of a 16-bit SEGA vgm.\u000a\u000aFinally, one post catches your attention: it's a picture of your ex in bikini.\u000a\u000a* [[Like|fblike]]\u000a* [[Quickly close Facebook|Tweet for help]]\u000a* [[Touch yourself||masturbate]]\u000a
+V<Ctrl-T>, f, <Enter>\u000a\u000aYou realize you have seen most of your timeline already, since the last time you checked Facebook was.. ten minutes ago.\u000a\u000aBesides, this is your new account where you only have ten friends. Facebook is too mainstream nowadays. You're secretly hoping more people would adopt Google+, but all you can read on there are Linus Torvald's rants about Gnome.\u000a\u000aOne of the posts is about a sappy romantic comedy. Another is a link to someone's latest SoundCloud song. It's an 8-bit cover of a 16-bit SEGA vgm.\u000a\u000aFinally, one post catches your attention: it's a picture of your ex in bikini.\u000a\u000a* [[Like|fblike]]\u000a* [[Quickly close Facebook|Tweet for help]]\u000a* [[Touch yourself|masturbate]]\u000a
 p134
 sg20
 (lp135
@@ -595,7 +595,7 @@ Tiddler
 p187
 (dp188
 g18
-VStanding before your various options, you're reminded of this quote, by Henry David Thoreau:\u000a\u000a''Men have become the tools of their tools.''\u000a\u000aHmm, irrelevant.\u000a\u000aUnperturbed by this brain fart, you decide to choose:\u000a\u000a<<display "Programming tools options">>\u000a
+VStanding before your various options, you're reminded of this quote, by Henry David Thoreau:\u000a\u000a''Men have become the tools of their tools.''\u000aHmm, irrelevant.\u000a\u000aUnperturbed by this brain fart, you go on to choose the tool that will allow you to make this game a reality.\u000a\u000a<<display "Programming tools options">>\u000a
 p189
 sg20
 (lp190
@@ -891,7 +891,7 @@ Tiddler
 p275
 (dp276
 g18
-V<<actions "Use Game Maker" "Use Unity" "Use C++" "Use ooc" "Use Java">>\u000a
+V<<actions "Use Game Maker" "Use Java" "Use Unity" "Use ooc" "Use C++">>\u000a
 p277
 sg20
 (lp278
@@ -928,7 +928,7 @@ Tiddler
 p286
 (dp287
 g18
-V<<if $broke>>\u000aYour Paypal account is empty, remember?\u000a\u000aHere are your remaining options:\u000a<<else>>\u000a<<set $broke = 1>>\u000aDecided to give your game the best chance possible, you decide to cash out and buy a license.\u000a\u000aAs you navigate to the website's cart and to the check out, you notice your Paypal account only has 49 cents left.\u000a\u000aThat's right, the Winter Steam sale left it in pretty bad shape. You would use your credit card, if only you had one.\u000a\u000aAnnoyed, you take a look at the remaining options:\u000a<<endif>>\u000a\u000a<<display "Programming tools options">>
+V<<if $broke>>Your Paypal account is empty, remember?\u000a\u000aHere are your remaining options:\u000a<<else>><<set $broke = 1>>Decided to give your game the best chance possible, you decide to cash out and buy a license.\u000a\u000aAs you navigate to the website's cart and to the check out, you notice your Paypal account only has 49 cents left.\u000a\u000aThat's right, the Winter Steam sale left it in pretty bad shape. You would use your credit card, if only you had one.\u000a\u000aAnnoyed, you take a look at the remaining options:<<endif>>\u000a\u000a<<display "Programming tools options">>
 p288
 sg20
 (lp289
@@ -965,7 +965,7 @@ Tiddler
 p297
 (dp298
 g18
-VUnity sounds and looks like the dream game framework: batteries included, with a nice editor and what's more? Everyone seems to be using it these days.\u000a\u000aIt even has a browser plug-in! Surely what made Flash a success back in the days.\u000a\u000aYou navigate to its website and read a bit more about it, since you've never used it before.\u000a\u000aIn the second paragraph, something catches your eye: ''Not Free for Android/iOS usage''.\u000a\u000aWhat!? Up to this point, you never even considered making your game on something else than a cozy desktop computer (heck, you hadn't even considered Mac and Linux), but now that you've seen the option, you WANT IT.\u000a\u000aHowever, it requires money. What will you do?\u000a\u000a* Fuck it, [[buy a license]]\u000a* [[Ain't nobody's got money for that!|Programming tools]]\u000a
+VUnity sounds and looks like the dream game framework: batteries included, with a nice editor and what's more? Everyone seems to be using it these days.\u000a\u000aIt even has a browser plug-in! Surely what made Flash a success back in the days.\u000a\u000aYou navigate to its website and read a bit more about it, since you've never used it before.\u000a\u000aIn the second paragraph, something catches your eye:\u000a\u000a''Not Free for Android/iOS usage''\u000aWhat!? Up to this point, you never even considered making your game on something else than a cozy desktop computer (heck, you hadn't even considered Mac and Linux), but now that you've seen the option, you WANT IT.\u000a\u000aHowever, it requires money. What will you do?\u000a\u000a* Fuck it, [[buy a license]]\u000a* [[Ain't nobody's got money for that!|Programming tools]]\u000a
 p299
 sg20
 (lp300
@@ -1076,7 +1076,7 @@ Tiddler
 p330
 (dp331
 g18
-VOgre3D looks like a hell of a best. The screenshots on the homepage are impressive.\u000a\u000aOpen Source? Meh, hopefully it still works though. You never know who to trust, these days.\u000a\u000aYou keep on reading the starter docs, end up on the 13th page of a forum thread, and discover to your error that it doesn't run yet on Windows 8 ARM tablets.\u000a\u000a''Schadenfreude!'' you exclaim, unsure how much is left of your german courses.\u000a\u000aYou spitefully take a begrudging look at your remaining options:\u000a\u000a<<display "C++ Options">>
+VOgre3D looks like a hell of a best. The screenshots on the homepage are impressive.\u000a\u000aOpen Source? Meh, hopefully it still works though. You never know who to trust, these days.\u000a\u000aYou keep on reading the starter docs, end up on the 13th page of a forum thread, and discover to your error that it doesn't run yet on Windows 8 ARM tablets.\u000a\u000a''Schadenfreude!''\u000aYou exclaim, unsure how much is left of your german courses.\u000a\u000aYou spitefully take a begrudging look at your remaining options:\u000a\u000a<<display "C++ Options">>
 p332
 sg20
 (lp333
@@ -1409,7 +1409,7 @@ Tiddler
 p429
 (dp430
 g18
-VEnough of this centralized poppycock, let's use a ''real'' versioning system instead.\u000a\u000aAfter just a few hours of setup, you have msysgit installed with a new SSH key successfully imported into your GitHub account.\u000a\u000aYou then realize GitHub has a native Windows app, but a well-timed tweet by a 16K-followers account clamors, as to justify the time you just wasted, that ''Real programmers use the command line''.\u000a\u000aTime to:\u000a\u000a<<display "Prototype options">>
+VEnough of this centralized poppycock, let's use a __real__ versioning system instead.\u000a\u000aAfter just a few hours of setup, you have msysgit installed with a new SSH key successfully imported into your GitHub account.\u000a\u000aYou then realize GitHub has a native Windows app, but a well-timed tweet by a 16K-followers account clamors, as to justify the time you just wasted, that:\u000a\u000a''Real programmers use the command line - @codephreak''\u000aTime to:\u000a\u000a<<display "Prototype options">>
 p431
 sg20
 (lp432
@@ -1631,7 +1631,7 @@ Tiddler
 p495
 (dp496
 g18
-V"I tried to launch it but it complains about missing JNI DLLs missing. I'm on Ubuntu 12.04. Help?" - @penguin23\u000a\u000a...\u000a\u000a\u000aAnd there you thought Java ran everywhere. But then again, what is he/she doing on such an arcane operating system? You thought everyone gave up on this silliness long ago. If only everyone could be like you and run Windows only.\u000a\u000aYou answer politely that there might be a Linux version later, if you have time, but that for now you gotta give it up to the ol'Redmond firm.\u000a\u000a<<display "Prototype tweets">>
+V''I tried to launch it but it complains about missing JNI DLLs missing. I'm on Ubuntu 12.04. Help? - @penguin23''\u000aAnd there you thought Java ran everywhere. But then again, what is he/she doing on such an arcane operating system? You thought everyone gave up on this silliness long ago. If only everyone could be like you and run Windows only.\u000a\u000aYou answer politely that there might be a Linux version later, if you have time, but that for now you gotta give it up to the ol'Redmond firm.\u000a\u000a<<display "Prototype tweets">>
 p497
 sg20
 (lp498
@@ -1668,7 +1668,7 @@ Tiddler
 p506
 (dp507
 g18
-V"Wow, this looks great! Is it on Greenlight? It could use a few parallax planes and some more particles, but I love it already." - @unfinished_cookie\u000a\u000aAh, at last some positive feedback. You favorite the tweet but don't answer it now. After all, you're very busy and this jam means business.\u000a\u000a<<display "Prototype tweets">>
+V''Wow, this looks great! Is it on Greenlight? It could use a few parallax planes and some more particles, but I love it already. - @unfinished_cookie''\u000aAh, at last some positive feedback. You favorite the tweet but don't answer it now. After all, you're very busy and this jam means business.\u000a\u000a<<display "Prototype tweets">>
 p508
 sg20
 (lp509
@@ -1705,7 +1705,7 @@ Tiddler
 p517
 (dp518
 g18
-V"from after you graduate from" - @jam_ebooks\u000a\u000aAhah! Instant classic, instant favorite.\u000a\u000aYou have no idea what this means but you positively adore the idea of Twitter novelty accounts.\u000a\u000a<<display "Prototype tweets">>
+V''from after you graduate from - @jam_ebooks''\u000aAhah! Instant classic, instant favorite.\u000a\u000aYou have no idea what this means but you positively adore the idea of Twitter novelty accounts.\u000a\u000a<<display "Prototype tweets">>
 p519
 sg20
 (lp520
@@ -2075,7 +2075,7 @@ Tiddler
 p627
 (dp628
 g18
-VDesperate for any kind of advice on how to get that dream idea of yours into a real, honest-to-god gaming experience, you turn to Twitter for help once again.\u000a\u000aHowever, before you even have the time to click on 'New tweet', something catches your eye: \u000a\u000a"I would enter #NeverJam but can't code fo the life of me. Any coderz around in need of a 2D pixel artist? I drew a panda once." - @delusional_lazypants\u000a\u000aYou make agile jumps from link to link and find the aforementioned panda sketch. There's no denying that your own art pales in comparison.\u000a\u000aYou suddenly start to feel slightly bad about yourself. Oh how you wish you had all the talents in the world. Then you wouldn't have to resort to other humans to do your bidding.\u000a\u000a[[Follow @delusional_lazypants]]
+VDesperate for any kind of advice on how to get that dream idea of yours into a real, honest-to-god gaming experience, you turn to Twitter for help once again.\u000a\u000aHowever, before you even have the time to click on 'New tweet', something catches your eye: \u000a\u000a''I would enter #NeverJam but can't code fo the life of me. Any coderz around in need of a 2D pixel artist? I drew a panda once. - @delusional_lazypants''\u000aYou make agile jumps from link to link and find the aforementioned panda sketch. There's no denying that your own art pales in comparison.\u000a\u000aYou suddenly start to feel slightly bad about yourself. Oh how you wish you had all the talents in the world. Then you wouldn't have to resort to other humans to do your bidding.\u000a\u000a[[Follow @delusional_lazypants]]
 p629
 sg20
 (lp630
@@ -2112,7 +2112,7 @@ Tiddler
 p638
 (dp639
 g18
-VYou follow him. Or wait - that's a her.\u000a\u000aAnother tweet quickly pops up in your timeline:\u000a\u000a"What I'd really like is some sort of online game with a universe as large as earth itself, with spaceships and battles - but also trade[...]" - @delusional_lazypants\u000a\u000aAnd another:\u000a\u000a"The problem is that I can't find a coder who's fast enough for me. If you can't come up with a GTA V clone in two hours, pass!" - @delusional_lazypants\u000a\u000aYou can almost taste the bitterness. You would like to help this poor soul, but your gut feeling is to leave it at that and keep on trucking.\u000a\u000aYou can't help feeling slightly guilty to pass on such an opportunity, especially since it's a she - just for that, you feel a little sexist.\u000a\u000aYou retweet a #1reason tweet to feel better, and decide to:\u000a\u000a<<display "Game logic options">>
+VYou follow him. Or wait - that's a her.\u000a\u000aAnother tweet quickly pops up in your timeline:\u000a\u000a''What I'd really like is some sort of online game with a universe as large as earth itself, with spaceships and battles - but also trade[...] - @delusional_lazypants''\u000aAnd another:\u000a\u000a''The problem is that I can't find a coder who's fast enough for me. If you can't come up with a GTA V clone in two hours, pass! - @delusional_lazypants''\u000aYou can almost taste the bitterness. You would like to help this poor soul, but your gut feeling is to leave it at that and keep on trucking.\u000a\u000aYou can't help feeling slightly guilty to pass on such an opportunity, especially since it's a she - just for that, you feel a little sexist.\u000a\u000aYou retweet a #1reason tweet to feel better, and decide to:\u000a\u000a<<display "Game logic options">>
 p640
 sg20
 (lp641
@@ -2149,7 +2149,7 @@ Tiddler
 p649
 (dp650
 g18
-VThere's only 30 minutes left before the deadline, and the tension is palpable. You can feel the stress all along your arteries, and then lodging under your left sock.\u000a\u000a*twitch* *twitch*\u000a\u000aSpiteful, you decide to revert your game to the first working version, so you have something to release.\u000a\u000a<<if $vcs>>\u000aThankfully, you've used git to track the progress of your project.\u000a\u000aAll you have to do is simply to [[roll back]] to the last working build!\u000a<<else>>\u000aIn horror, you realize you haven't used used a vcs to track the progress of your project. All your previous work is lost! And all you are left with is a skeleton of a game - a black window, with nothing to do.\u000a\u000aBut suddenly, [[you have a terrible idea]].\u000a<<endif>>\u000a
+VThere's only 30 minutes left before the deadline, and the tension is palpable. You can feel the stress all along your arteries, and then lodging under your left sock.\u000a\u000aSpiteful, you decide to revert your game to the first working version, so you have something to release.\u000a\u000a<<if $vcs>>\u000aThankfully, you've used git to track the progress of your project.\u000a\u000aAll you have to do is simply to [[roll back]] to the last working build!\u000a<<else>>\u000aIn horror, you realize you haven't used used a vcs to track the progress of your project. All your previous work is lost! And all you are left with is a skeleton of a game - a black window, with nothing to do.\u000a\u000aBut suddenly, [[you have a terrible idea]].\u000a<<endif>>\u000a
 p651
 sg20
 (lp652
@@ -2334,7 +2334,7 @@ Tiddler
 p704
 (dp705
 g18
-VIt's as if Niccolò di Bernardo dei Machiavegli himself had paid a visit to your brain in the middle of the night.\u000a\u000aWhat if you published it anyway?\u000a\u000aA groundbreaking experience in non-games. The forerunner of a movement of dozens - the ultimate indie transgression. A game that's only a black screen.\u000a\u000aAs the player is presented with the hard choice to keep the game running and buy a new computer, or to Ctrl-Alt-Del and quit it, he is forced to reflect on his own inner emptiness.\u000a\u000a''Brilliant!'', you think, as you hurry to [[the jam's website]] to publish it.
+VIt's as if Niccolò di Bernardo dei Machiavegli himself had paid a visit to your brain in the middle of the night.\u000a\u000aWhat if you published it anyway?\u000a\u000aA groundbreaking experience in non-games. The forerunner of a movement of dozens - the ultimate indie transgression. A game that's only a black screen.\u000a\u000aAs the player is presented with the hard choice to keep the game running and buy a new computer, or to Ctrl-Alt-Del and quit it, he is forced to reflect on his own inner emptiness.\u000a\u000a''Brilliant!''\u000aYou think, as you hurry to [[the jam's website]] to publish it.
 p706
 sg20
 (lp707
@@ -2482,7 +2482,7 @@ Tiddler
 p748
 (dp749
 g18
-V2PM.\u000a\u000aWHAT!\u000a\u000aYou've missed the submission deadline!! How could this happen?\u000a\u000aYou're angry, and sad, and a dozen of other confused emotions that you cannot quite name.\u000a\u000aYou have one Twitter mention. @unfinished_cookie wants to know if you're doing okay. Well, you're not.\u000a\u000aIn rage, you quickly check the jam's website - ah, now it loads...\u000a\u000aThe most popular submission is a 3D Surgery Simulator.\u000a\u000aIt uses Unity.\u000a\u000aAh, the peasants...\u000a\u000a''THE END''
+V2PM.\u000a\u000aWHAT!\u000a\u000aYou've missed the submission deadline!! How could this happen?\u000a\u000aYou're angry, and sad, and a dozen of other confused emotions that you cannot quite name.\u000a\u000aYou have one Twitter mention. @unfinished_cookie wants to know if you're doing okay. Well, you're not.\u000a\u000aIn rage, you quickly check the jam's website - ah, now it loads...\u000a\u000aThe most popular submission is a 3D Surgery Simulator.\u000a\u000aIt uses Unity.\u000a\u000aAh, the peasants...\u000a\u000a[[You have lost. Read the epilogue!|Epilogue]]\u000a
 p750
 sg20
 (lp751
@@ -2519,7 +2519,7 @@ Tiddler
 p759
 (dp760
 g18
-VEventually, and at the price of a slightly jammed key, you get the website to load.\u000a\u000aTime to go big or go home!\u000a\u000aYou fill out the game name:\u000a\u000a''Desertful artsiness''\u000a\u000aYou figure the best of breed indie gamers will get it.\u000a\u000aThen you [[hit submit]].
+VEventually, and at the price of a slightly jammed key, you get the website to load.\u000a\u000aTime to go big or go home!\u000a\u000aYou fill out the game name:\u000a\u000a''Desertful artsiness''\u000aYou figure the best of breed indie gamers will get it.\u000a\u000aThen you [[hit submit]].
 p761
 sg20
 (lp762
@@ -2593,7 +2593,7 @@ Tiddler
 p781
 (dp782
 g18
-VWake up!\u000a\u000a...\u000a\u000aWAKE UP!\u000a\u000a''HMmMMmMmmmmm?''\u000a\u000a<<if $vcs>>\u000aYour roommate [[bursts in]].\u000a<<else>>\u000aYour girlfriend is [[looking at you]].\u000a<<endif>>
+VWake up!\u000a\u000a...\u000a\u000aWAKE UP!\u000a\u000a''HMmMMmMmmmmm?''\u000a<<if $vcs>>\u000aYour roommate [[bursts in]].\u000a<<else>>\u000aYour girlfriend is [[looking at you]].\u000a<<endif>>
 p783
 sg20
 (lp784
@@ -2630,7 +2630,7 @@ Tiddler
 p792
 (dp793
 g18
-V"Have you heard? Oh you gotta check this out!\u000a\u000aKittenReich was the most popular game of #NeverJam - it's a remake of Wolfenstein 3D, in 2D, in Flash, with pixel art, an original didgeridoo soundtrack, where you play as a Siamese cat that's also a Jew and you get to shoot Hitler's offspring. It's FUCKING AWESOME!\u000a\u000aBut they censored it - they got accused of being sexist pigs, because the cat protagonist is male and Hitler has daughters in the game."\u000a\u000aConfused and unfazed by these news, you go to check out the jam's website. It loads instantly.\u000a\u000aYou check out the top 25. Your game is not there.\u000a\u000aYou check out the top 100. Your game is not there.\u000a\u000aYou search for your game by name. There it is.\u000a\u000a2 ratings. One comment.\u000a\u000a"I'm on Mac, how do I launch it?"\u000a\u000a''THE END''
+V''Have you heard? Oh you gotta check this out!\u000a\u000aKittenReich was the most popular game of #NeverJam - it's a remake of Wolfenstein 3D, in 2D, in Flash, with pixel art, an original didgeridoo soundtrack, where you play as a Siamese cat that's also a Jew and you get to shoot Hitler's offspring. It's FUCKING AWESOME!\u000a\u000aBut they censored it - they got accused of being sexist pigs, because the cat protagonist is male and Hitler has daughters in the game.''\u000aConfused and unfazed by these news, you go to check out the jam's website. It loads instantly.\u000a\u000aYou check out the top 25. Your game is not there.\u000a\u000aYou check out the top 100. Your game is not there.\u000a\u000aYou search for your game by name. There it is.\u000a\u000a2 ratings. One comment.\u000a\u000a''I'm on Mac, how do I launch it?''\u000a\u000a[[You have (mostly) lost. Read the epilogue!|Epilogue]]\u000a
 p794
 sg20
 (lp795
@@ -2660,14 +2660,14 @@ I00
 sg13
 (lp802
 F2250.0
-aF4415.0
+aF4413.75
 asg15
 (itiddlywiki
 Tiddler
 p803
 (dp804
 g18
-V"Honey, honey, it's wonderful! Have you read Rock Paper Shotgun today?"\u000a\u000a"Hmmm?"\u000a\u000aYou emerge from your sleep, blinking haphazardly, and check out the MacBook Pro she is handing you.\u000a\u000aThere it is: a review of your game.\u000a\u000aThe reviewer calls it "Brilliant!", gives it a 11/10 in originality, and has recorded a Vine clip of himself shitting his pants when playing it through for the second time.\u000a\u000aThere's already over 14'000 downloads, and so many mentions you can't even scroll back to read them all.\u000a\u000aYou immediately call your boss to quit your day job, and start designing the box art for your game's impending Steam release. But there'll be a twist: the box art is entirely white.\u000a\u000aCongratulations.\u000a\u000aYou are a legit indie game developer now.\u000a\u000a''THE END''
+V''Honey, honey, it's wonderful! Have you read Rock Paper Shotgun today?''\u000a''Hmmm?''\u000aYou emerge from your sleep, blinking haphazardly, and check out the MacBook Pro she is handing you.\u000a\u000aThere it is: a review of your game.\u000a\u000aThe reviewer calls it "Brilliant!", gives it a 11/10 in originality, and has recorded a Vine clip of himself shitting his pants when playing it through for the second time.\u000a\u000aThere's already over 14'000 downloads, and so many mentions you can't even scroll back to read them all.\u000a\u000aYou immediately call your boss to quit your day job, and start designing the box art for your game's impending Steam release. But there'll be a twist: the box art is entirely white.\u000a\u000aCongratulations.\u000a\u000aYou are a legit indie game developer now.\u000a\u000a[[You have won! Read the epilogue!|Epilogue]]
 p805
 sg20
 (lp806
@@ -2696,8 +2696,8 @@ g12
 I00
 sg13
 (lp813
-F13.75
-aF451.25
+F11.25
+aF435.0
 asg15
 (itiddlywiki
 Tiddler
@@ -2705,35 +2705,236 @@ p814
 (dp815
 S'text'
 p816
-V<html>by <a href="https://twitter.com/nddrylliog">@nddrylliog</a></html>\u000a<html><a href="http://onegameamonth.org/">#OneGameAMonth</a></html>
+V\u000abody {\u000a  font-size:1.15em;\u000a  font-family:Amethysta,serif;\u000a  background:#31383F;\u000a}\u000a\u000a#sidebar, #passages {\u000a  padding: 10px 60px;\u000a}\u000a\u000a#sidebar {\u000a  background: white;\u000a  position: absolute;\u000a  top: 0;\u000a  left: 50%;\u000a  width: 800px;\u000a  height: 130px;\u000a  margin-left: -400px;\u000a  box-sizing: border-box;\u000a\u000a  color: rgb(51, 51, 51);\u000a  font-weight: 400;\u000a  font-size: 14pt;\u000a  padding-top: 40px;\u000a\u000a  background-image: url('https://amos.me/img/mugshot.jpg');\u000a  background-size: 110px;\u000a  background-repeat: no-repeat;\u000a  background-position: 630px 20px;\u000a}\u000a\u000a#sidebar li {\u000a  font-family: 'Amethysta';\u000a  color: black;\u000a  display: inline;\u000a  margin-right: 5px;\u000a}\u000a\u000a#sidebar #title, #sidebar #title:hover {\u000a  color: rgb(51, 51, 51);\u000a}\u000a\u000a#sidebar li, #sidebar li a, a.internalLink, #passages a {\u000a  text-decoration: none;\u000a  color: rgb(221, 153, 68);\u000a}\u000a\u000a#passages a, a.internalLink {\u000a  font-weight: normal;\u000a}\u000a\u000a#sidebar li:hover, #sidebar li a:hover, #passages a:hover, a.internalLink:hover {\u000a  color: rgb(171, 109, 31);\u000a  text-decoration: none;\u000a}\u000a\u000a#sidebar #snapback, #sidebar #share {\u000a  display: none;\u000a}\u000a\u000a#sidebar #restart, #sidebar #storyMenu {\u000a  font-family: Open Sans Condensed, sans-serif;\u000a}\u000a\u000a#sidebar #restart {\u000a  text-transform: lowercase;\u000a  background-color: rgb(87, 87, 87);\u000a  color: white;\u000a  padding: 5px 13px;\u000a  border-radius: 7px;\u000a  font-size: 13pt;\u000a}\u000a\u000a#sidebar #storyMenu {\u000a  color: rgb(111, 111, 111);\u000a  font-size: 18pt;\u000a}\u000a\u000a#sidebar li a:hover, #sidebar li:hover {\u000a  opacity: 0.8;\u000a}\u000a\u000a#sidebar #title {\u000a  font-family: 'Open Sans Condensed',sans-serif;\u000a  font-weight: 400;\u000a  font-size: 36pt;\u000a}\u000a\u000a#sidebar #credits {\u000a  display: none;\u000a}\u000a\u000a#sidebar #storyMenu {\u000a  display: inline !important;\u000a}\u000a\u000a#passages {\u000a  background: white;\u000a  color: rgb(51, 51, 51);\u000a  font-size: 11pt;\u000a  width: 800px;\u000a  box-sizing: border-box;\u000a  position: absolute;\u000a  top: 130px;\u000a  left: 50%;\u000a  margin-left: -400px;\u000a  border: none;\u000a  line-height: 1.5;\u000a  min-height: 100%;\u000a}\u000a\u000a#passages strong {\u000a  font-weight: normal;\u000a  color: rgb(88, 88, 87);\u000a  padding-left: 18px;\u000a  display: block;\u000a  border-left: 7px solid rgba(185, 115, 40, 0.66);\u000a  background: rgba(245, 250, 139, 0.3);\u000a  font-size: 11pt;\u000a  padding: 20px;\u000a  line-height: 1.6;\u000a  margin: 0;\u000a}\u000a\u000a.passage ul {\u000a  text-align: left;\u000a  margin: 0;\u000a  padding: 0;\u000a}\u000a\u000a.passage ul li {\u000a  display: block;\u000a}
 p817
 sS'tags'
 p818
 (lp819
-sS'created'
+Vstylesheet
 p820
+asS'created'
+p821
 g23
 ((I2013
 I1
 I30
-I1
-I19
-I58
+I6
+I26
+I32
 I2
 I30
 I0
-tp821
-(dp822
-tp823
-Rp824
+tp822
+(dp823
+tp824
+Rp825
 sS'modified'
-p825
-g824
-sS'title'
 p826
-VStoryMenu
+g825
+sS'title'
 p827
-sbsasS'scale'
+VStyle
 p828
+sbsa(dp829
+g12
+I00
+sg13
+(lp830
+F11.25
+aF581.25
+asg15
+(itiddlywiki
+Tiddler
+p831
+(dp832
+g816
+VWebFontConfig = {\u000a    google: { families: [ 'Amethysta::latin', 'Open+Sans+Condensed:700:latin' ] }\u000a  };\u000a  (function() {\u000a    var wf = document.createElement('script');\u000a    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +\u000a      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';\u000a    wf.type = 'text/javascript';\u000a    wf.async = 'true';\u000a    var s = document.getElementsByTagName('script')[0];\u000a    s.parentNode.insertBefore(wf, s);\u000a  })();
+p833
+sg818
+(lp834
+Vscript
+p835
+asg821
+g23
+((I2013
+I1
+I30
+I6
+I31
+I52
+I2
+I30
+I0
+tp836
+(dp837
+tp838
+Rp839
+sg826
+g839
+sg827
+VWebFonts
+p840
+sbsa(dp841
+g12
+I00
+sg13
+(lp842
+F13.75
+aF722.5
+asg15
+(itiddlywiki
+Tiddler
+p843
+(dp844
+S'text'
+p845
+V      var _gaq = _gaq || [];\u000a      _gaq.push(['_setAccount', 'UA-8462936-10']);\u000a      _gaq.push(['_trackPageview']);\u000a      (function() {\u000a        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\u000a        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\u000a        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\u000a      })();
+p846
+sS'tags'
+p847
+(lp848
+Vscript
+p849
+asS'created'
+p850
+g23
+((I2013
+I1
+I30
+I7
+I43
+I36
+I2
+I30
+I0
+tp851
+(dp852
+tp853
+Rp854
+sS'modified'
+p855
+g854
+sS'title'
+p856
+VGoogle Analytics
+p857
+sbsa(dp858
+g12
+I00
+sg13
+(lp859
+F156.25
+aF290.0
+asg15
+(itiddlywiki
+Tiddler
+p860
+(dp861
+S'text'
+p862
+Va game by <html><a href="https://amos.me/">Amos Wenger</a></html>
+p863
+sS'tags'
+p864
+(lp865
+sS'created'
+p866
+g23
+((I2013
+I1
+I30
+I7
+I46
+I32
+I2
+I30
+I0
+tp867
+(dp868
+tp869
+Rp870
+sS'modified'
+p871
+g870
+sS'title'
+p872
+VStoryMenu
+p873
+sbsa(dp874
+g12
+I00
+sg13
+(lp875
+F253.75
+aF150.0
+asg15
+(itiddlywiki
+Tiddler
+p876
+(dp877
+g862
+VIt's a nice winter evening.\u000a\u000aWhile checking your Twitter feed, you realize #NeverJam is about to start! The theme is pausodonoptic.\u000a\u000aSince your exams don't start for another week, you decide to spend the next 48 hours creating a game for this jam.\u000a\u000a<<display "Pre actions">>\u000a\u000a<<set $broke = 0>>\u000a<<set $vcs = 0>>
+p878
+sg864
+(lp879
+sg866
+g23
+((I2013
+I1
+I30
+I8
+I0
+I16
+I2
+I30
+I0
+tp880
+(dp881
+tp882
+Rp883
+sg871
+g883
+sg872
+VPrelude
+p884
+sbsa(dp885
+g12
+I01
+sg13
+(lp886
+F2040.0
+aF4650.0
+asg15
+(itiddlywiki
+Tiddler
+p887
+(dp888
+g862
+VI hope you enjoyed playing through NeverJam - it was made for the <html><a href="http://onegameamonth.org/">One Game A Month</html> permanent jam hosted by McFunkyPants himself.\u000a\u000aIf you liked what you read, feel free to <html><a href="https://twitter.com/nddrylliog">follow me on Twitter</a> or read a few of the <html><a href="https://amos.me">articles I write.</html>\u000a\u000aI usually work on "real" games, using a programming language I created <html><a href="http://ooc-lang.org/">ooc</a></html>, and homegrown tools. If you're interested, come say hi on <html><a href="http://oocgaming.org"></a>ooc gaming</html>!\u000a\u000aTogether with a few friends, we've named ourselves <html><a href="http://nevargames.com/">NevarGames</a></html> and we like to create platformers and puzzle games.\u000a\u000aNow's the time to hit that restart button!
+p889
+sg864
+(lp890
+sg866
+g23
+((I2013
+I1
+I30
+I8
+I5
+I34
+I2
+I30
+I0
+tp891
+(dp892
+tp893
+Rp894
+sg871
+g894
+sg872
+VEpilogue
+p895
+sbsasS'scale'
+p896
 F0.80000000000000004
 ss.
