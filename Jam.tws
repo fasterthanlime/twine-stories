@@ -20,7 +20,7 @@ p9
 (dp11
 S'selected'
 p12
-I00
+I01
 sS'pos'
 p13
 (lp14
@@ -34,7 +34,7 @@ p16
 (dp17
 S'text'
 p18
-VIt's a nice winter evening.\u000a\u000aWhile checking your Twitter feed, you realize ''LoveThisJam'' is about to start! The theme is ''pausodonoptic''.\u000a\u000aSince your exams don't start for another week, you decide to spend the next 48 hours creating a game for this jam.\u000a\u000aBut first:\u000a\u000a<<display "Pre actions">>\u000a\u000a<<set $broke = 0>>\u000a<<set $vcs = 0>>
+VIt's a nice winter evening.\u000a\u000aWhile checking your Twitter feed, you realize ''#NeverJam'' is about to start! The theme is ''pausodonoptic''.\u000a\u000aSince your exams don't start for another week, you decide to spend the next 48 hours creating a game for this jam.\u000a\u000aBut first:\u000a\u000a<<display "Pre actions">>\u000a\u000a<<set $broke = 0>>\u000a<<set $vcs = 0>>
 p19
 sS'tags'
 p20
@@ -2693,7 +2693,7 @@ Vlooking at you
 p811
 sbsa(dp812
 g12
-I01
+I00
 sg13
 (lp813
 F13.75
@@ -2705,7 +2705,7 @@ p814
 (dp815
 S'text'
 p816
-V<html>by <a href="https://twitter.com/nddrylliog">@nddrylliog</a></html>
+V<html>by <a href="https://twitter.com/nddrylliog">@nddrylliog</a></html>\u000a<html><a href="http://onegameamonth.org/">#OneGameAMonth</a></html>
 p817
 sS'tags'
 p818
